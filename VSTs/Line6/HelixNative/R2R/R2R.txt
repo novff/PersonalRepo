@@ -1,0 +1,17 @@
+Line6 Helix Native License V2 KeyGen Release
+
+0.Uninstall previous version.
+  Cleanup "%APPDATA%\Line 6\" if you need.
+  Old license (V1) file name : Purchase.dat
+  Current license (V2) file name : PurchaseV2.dat
+
+1.Block the access to "line6.com".
+  Hosts patch is included for the skilled users.
+
+1.Install.
+
+2.Run our keygen.
+
+3.Enjoy!
+
+TEAM R2R 2020

@@ -1,0 +1,1785 @@
+2018-02-25 21:01:30.098 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-02-25 21:01:30.333 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-02-25 21:01:31.204 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-02-25 21:01:31.205 -- Bus Open   : Offset 0
+2018-02-25 21:01:31.210 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-02-25 21:01:31.491 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-02-25 21:05:32.590 ## Mapper.Shutdown()
+2018-03-05 21:18:07.036 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-03-05 21:18:07.061 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-03-05 21:18:07.206 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-03-05 21:18:07.218 -- Bus Open   : Offset 0
+2018-03-05 21:18:07.223 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-03-05 21:18:07.373 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-03-06 00:07:00.122 ## Mapper.Shutdown()
+2018-03-06 20:43:16.489 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-03-06 20:43:16.493 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-03-06 20:43:16.558 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-03-06 20:43:16.560 -- Bus Open   : Offset 0
+2018-03-06 20:43:16.564 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-03-06 20:43:16.601 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-03-06 20:43:18.327 ## Mapper.Shutdown()
+2018-03-06 20:43:28.105 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-03-06 20:43:28.109 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-03-06 20:43:28.154 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-03-06 20:43:28.155 -- Bus Open   : Offset 0
+2018-03-06 20:43:28.159 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-03-06 20:43:28.195 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-03-06 20:43:40.560 ## Mapper.Shutdown()
+2018-03-06 20:44:17.218 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-03-06 20:44:17.222 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-03-06 20:44:17.278 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-03-06 20:44:17.279 -- Bus Open   : Offset 0
+2018-03-06 20:44:17.283 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-03-06 20:44:17.317 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-03-06 20:44:17.334 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-03-06 20:44:17.341 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-03-06 20:44:17.338 -- USB Device : HID_Worker_Thread Starting
+2018-03-06 20:44:17.350 -- Controller : UDP_Worker_Thread Starting
+2018-03-06 20:44:32.741 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-03-06 20:44:32.743 -- Device Removal [AC:7A:4D:14:D3:A9]
+2018-03-06 20:44:32.768 -- USB Device : HID_Worker_Thread Exiting
+2018-03-06 20:44:37.871 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-03-06 20:44:37.874 -- DS3 Arrival Event
+2018-03-06 20:44:37.876 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-03-06 20:44:37.877 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-03-06 20:44:37.880 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-03-06 20:44:37.879 -- USB Device : HID_Worker_Thread Starting
+2018-03-06 21:33:24.072 ## Mapper.Shutdown()
+2018-03-07 18:07:34.315 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-03-07 18:07:34.319 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-03-07 18:07:34.356 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-03-07 18:07:34.356 -- Bus Open   : Offset 0
+2018-03-07 18:07:34.372 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-03-07 18:07:34.405 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-03-07 18:07:34.436 -- Controller : UDP_Worker_Thread Starting
+2018-03-07 18:07:44.053 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-03-07 18:07:44.053 -- DS3 Arrival Event
+2018-03-07 18:07:44.078 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-03-07 18:07:44.081 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-03-07 18:07:44.087 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-03-07 18:07:44.084 -- USB Device : HID_Worker_Thread Starting
+2018-03-07 18:07:52.575 ## Mapper.Shutdown()
+2018-03-07 18:07:54.610 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-03-07 18:07:54.610 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-03-07 18:07:54.657 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-03-07 18:07:54.657 -- Bus Open   : Offset 0
+2018-03-07 18:07:54.673 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-03-07 18:07:54.704 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-03-07 18:07:54.720 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-03-07 18:07:54.730 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-03-07 18:07:54.720 -- USB Device : HID_Worker_Thread Starting
+2018-03-07 18:07:54.738 -- Controller : UDP_Worker_Thread Starting
+2018-03-07 19:56:37.709 ## Mapper.Shutdown()
+2018-03-07 20:59:54.169 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-03-07 20:59:54.173 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-03-07 20:59:54.234 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-03-07 20:59:54.235 -- Bus Open   : Offset 0
+2018-03-07 20:59:54.239 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-03-07 20:59:54.278 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-03-07 20:59:54.295 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-03-07 20:59:54.303 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-03-07 20:59:54.300 -- USB Device : HID_Worker_Thread Starting
+2018-03-07 20:59:54.311 -- Controller : UDP_Worker_Thread Starting
+2018-03-07 21:07:23.907 ## Mapper.Shutdown()
+2018-03-07 21:07:23.935 -- Controller : UDP_Worker_Thread Exiting
+2018-03-07 21:07:24.558 -- USB Device : HID_Worker_Thread Exiting
+2018-03-07 21:15:50.195 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-03-07 21:15:50.199 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-03-07 21:15:50.264 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-03-07 21:15:50.265 -- Bus Open   : Offset 0
+2018-03-07 21:15:50.269 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-03-07 21:15:50.308 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-03-07 21:15:50.325 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-03-07 21:15:50.332 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-03-07 21:15:50.329 -- USB Device : HID_Worker_Thread Starting
+2018-03-07 21:15:50.342 -- Controller : UDP_Worker_Thread Starting
+2018-03-08 00:34:49.888 ## Mapper.Shutdown()
+2018-03-08 13:47:30.131 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-03-08 13:47:30.135 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-03-08 13:47:30.162 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-03-08 13:47:30.164 -- Bus Open   : Offset 0
+2018-03-08 13:47:30.167 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-03-08 13:47:30.187 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-03-08 13:47:38.418 ## Mapper.Shutdown()
+2018-03-08 13:47:40.920 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-03-08 13:47:40.930 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-03-08 13:47:40.930 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-03-08 13:47:43.969 ## Mapper.Shutdown()
+2018-03-08 13:47:53.947 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-03-08 13:47:53.950 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-03-08 13:47:53.974 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-03-08 13:47:53.976 -- Bus Open   : Offset 0
+2018-03-08 13:47:53.978 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-03-08 13:47:53.998 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-03-08 23:00:52.797 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-03-08 23:43:57.720 ## Mapper.Shutdown()
+2018-03-09 12:18:00.349 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-03-09 12:18:00.380 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-03-09 12:18:05.413 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-03-09 12:18:05.428 -- Bus Open   : Offset 0
+2018-03-09 12:18:05.428 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-03-09 12:18:05.585 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-03-10 00:28:59.982 ## Mapper.Shutdown()
+2018-03-19 17:01:09.445 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-03-19 17:01:09.453 ++ C:\Users\Максим\Desktop\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-03-19 17:01:09.506 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-03-19 17:01:09.508 -- Bus Open   : Offset 0
+2018-03-19 17:01:09.512 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-03-19 17:01:09.537 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-03-19 17:01:11.995 ## Mapper.Shutdown()
+2018-09-06 21:07:30.449 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-06 21:07:30.481 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-06 21:07:30.698 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-06 21:07:30.701 -- Bus Open   : Offset 0
+2018-09-06 21:07:30.704 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-06 21:07:30.763 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-06 22:25:27.106 ## Mapper.Shutdown()
+2018-09-09 20:15:32.060 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-09 20:15:32.063 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-09 20:15:32.096 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-09 20:15:32.097 -- Bus Open   : Offset 0
+2018-09-09 20:15:32.099 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-09 20:15:32.125 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-09 23:36:07.459 ## Mapper.Shutdown()
+2018-09-10 19:12:18.442 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-10 19:12:18.445 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-10 19:12:18.498 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-10 19:12:18.499 -- Bus Open   : Offset 0
+2018-09-10 19:12:18.501 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-10 19:12:18.522 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-10 21:12:25.460 ## Mapper.Shutdown()
+2018-09-12 20:10:39.336 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-12 20:10:39.339 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-12 20:10:39.375 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-12 20:10:39.376 -- Bus Open   : Offset 0
+2018-09-12 20:10:39.379 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-12 20:10:39.399 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-12 20:10:40.639 ## Mapper.Shutdown()
+2018-09-12 20:51:09.036 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-12 20:51:09.039 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-12 20:51:09.070 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-12 20:51:09.071 -- Bus Open   : Offset 0
+2018-09-12 20:51:09.075 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-12 20:51:09.095 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-12 20:51:10.341 ## Mapper.Shutdown()
+2018-09-13 17:07:46.553 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-13 17:07:46.555 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-13 17:07:46.591 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-13 17:07:46.592 -- Bus Open   : Offset 0
+2018-09-13 17:07:46.595 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-13 17:07:46.617 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-15 18:36:53.366 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-15 18:36:53.371 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-15 18:36:53.397 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-15 18:36:53.398 -- Bus Open   : Offset 0
+2018-09-15 18:36:53.401 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-15 18:36:53.423 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-15 18:36:57.887 ## Mapper.Shutdown()
+2018-09-15 18:36:58.787 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-15 18:36:58.797 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-15 18:36:58.798 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-15 18:37:05.321 ## Mapper.Shutdown()
+2018-09-15 18:37:07.168 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-15 18:37:07.170 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-15 18:37:07.196 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-15 18:37:07.199 -- Bus Open   : Offset 0
+2018-09-15 18:37:07.201 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-15 18:37:07.222 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-15 18:39:59.964 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-09-15 18:40:00.807 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-09-15 18:40:00.807 -- DS3 Arrival Event
+2018-09-15 18:40:08.144 ## Mapper.Shutdown()
+2018-09-15 18:40:08.898 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-15 18:40:08.900 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-15 18:40:08.930 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-15 18:40:08.931 -- Bus Open   : Offset 0
+2018-09-15 18:40:08.933 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-15 18:40:08.955 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-15 18:43:18.363 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-15 18:43:18.365 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-15 18:43:18.393 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-15 18:43:18.394 -- Bus Open   : Offset 0
+2018-09-15 18:43:18.396 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-15 18:43:18.417 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-15 18:44:18.068 ## Mapper.Shutdown()
+2018-09-15 18:44:45.853 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-15 18:44:45.867 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-15 18:44:45.868 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-15 18:44:48.788 ## Mapper.Shutdown()
+2018-09-15 18:45:12.835 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-15 18:45:12.838 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-15 18:45:12.951 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-15 18:45:12.952 -- Bus Open   : Offset 0
+2018-09-15 18:45:12.955 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-15 18:45:12.975 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-15 18:46:07.081 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-09-15 18:46:56.135 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-09-15 18:46:56.136 -- DS3 Arrival Event
+2018-09-15 18:46:56.150 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-09-15 18:46:56.156 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-09-15 18:46:56.165 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&12] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-09-15 18:46:56.163 -- USB Device : HID_Worker_Thread Starting
+2018-09-15 20:27:57.021 ## Mapper.Shutdown()
+2018-09-17 17:08:54.000 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-17 17:08:54.003 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-17 17:08:54.076 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-17 17:08:54.077 -- Bus Open   : Offset 0
+2018-09-17 17:08:54.080 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-17 17:08:54.117 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-17 17:09:05.727 ## Mapper.Shutdown()
+2018-09-17 17:09:08.370 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-17 17:09:08.384 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-17 17:09:08.384 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-17 17:09:21.033 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-09-17 17:09:22.880 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-09-17 17:09:22.881 -- DS3 Arrival Event
+2018-09-17 17:09:22.888 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-09-17 17:09:22.891 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-09-17 17:09:22.898 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-09-17 17:09:22.894 -- USB Device : HID_Worker_Thread Starting
+2018-09-17 17:13:07.368 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-17 17:13:07.382 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-17 17:13:08.177 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-17 17:13:08.178 -- Bus Open   : Offset 0
+2018-09-17 17:13:08.181 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-17 17:13:08.201 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-17 17:13:12.149 ## Mapper.Shutdown()
+2018-09-17 17:13:12.722 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-17 17:13:12.734 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-17 17:13:12.734 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-17 17:13:13.264 ## Mapper.Shutdown()
+2018-09-17 17:13:13.680 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-17 17:13:13.693 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-17 17:13:13.694 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-17 17:13:13.996 ## Mapper.Shutdown()
+2018-09-17 17:13:14.346 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-17 17:13:14.360 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-17 17:13:14.361 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-17 17:13:14.777 ## Mapper.Shutdown()
+2018-09-17 17:13:15.127 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-17 17:13:15.142 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-17 17:13:15.144 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-17 17:13:15.511 ## Mapper.Shutdown()
+2018-09-17 17:13:15.914 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-17 17:13:15.930 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-17 17:13:15.931 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-17 17:13:17.642 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-09-17 17:13:19.250 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-09-17 17:13:19.251 -- DS3 Arrival Event
+2018-09-17 17:13:34.363 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-09-17 17:13:35.887 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-09-17 17:13:35.893 -- DS3 Arrival Event
+2018-09-17 17:13:45.442 ## Mapper.Shutdown()
+2018-09-17 17:13:45.837 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-17 17:13:45.857 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-17 17:13:45.858 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-17 17:13:47.035 ## Mapper.Shutdown()
+2018-09-17 17:24:55.133 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-17 17:24:55.136 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-17 17:24:55.189 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-17 17:24:55.190 -- Bus Open   : Offset 0
+2018-09-17 17:24:55.193 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-17 17:24:55.216 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-17 17:24:58.512 ## Mapper.Shutdown()
+2018-09-17 17:24:59.960 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-17 17:24:59.974 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-17 17:24:59.975 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-17 17:25:02.324 ## Mapper.Shutdown()
+2018-09-25 16:26:41.782 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-25 16:26:41.838 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-25 16:26:42.052 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-25 16:26:42.054 -- Bus Open   : Offset 0
+2018-09-25 16:26:42.056 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-25 16:26:42.079 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-25 16:26:58.686 ## Mapper.Shutdown()
+2018-09-25 16:26:59.338 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-25 16:26:59.353 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-25 16:26:59.373 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-25 16:27:02.536 ## Mapper.Shutdown()
+2018-09-25 16:27:06.512 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-25 16:27:06.515 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-25 16:27:06.542 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-25 16:27:06.543 -- Bus Open   : Offset 0
+2018-09-25 16:27:06.546 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-25 16:27:06.569 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-25 16:27:11.610 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-09-25 16:27:18.900 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-09-25 16:27:18.900 -- DS3 Arrival Event
+2018-09-25 16:27:18.906 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-09-25 16:27:18.908 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-09-25 16:27:18.913 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-09-25 16:27:18.910 -- USB Device : HID_Worker_Thread Starting
+2018-09-25 21:13:56.967 ## Mapper.Shutdown()
+2018-09-27 15:14:43.770 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-27 15:14:43.784 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-27 15:14:43.880 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-27 15:14:43.881 -- Bus Open   : Offset 0
+2018-09-27 15:14:43.884 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-27 15:14:43.909 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-27 15:14:57.781 ## Mapper.Shutdown()
+2018-09-27 15:14:58.306 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-27 15:14:58.321 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-27 15:14:58.343 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-27 15:14:59.629 ## Mapper.Shutdown()
+2018-09-27 15:15:05.791 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-27 15:15:05.795 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-27 15:15:05.821 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-27 15:15:05.822 -- Bus Open   : Offset 0
+2018-09-27 15:15:05.824 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-27 15:15:05.846 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-27 15:15:09.217 ## Mapper.Shutdown()
+2018-09-27 15:15:17.299 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-27 15:15:17.302 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-27 15:15:17.330 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-27 15:15:17.331 -- Bus Open   : Offset 0
+2018-09-27 15:15:17.333 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-27 15:15:17.356 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-27 15:15:21.710 ## Mapper.Shutdown()
+2018-09-27 15:15:22.137 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-27 15:15:22.149 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-27 15:15:22.149 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-27 15:15:22.506 ## Mapper.Shutdown()
+2018-09-27 15:15:22.929 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-27 15:15:22.941 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-27 15:15:22.942 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-27 15:15:23.856 ## Mapper.Shutdown()
+2018-09-27 15:15:26.523 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-09-27 15:15:29.227 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-09-27 15:15:29.227 -- DS3 Arrival Event
+2018-09-27 15:15:29.236 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-09-27 15:15:29.240 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-09-27 15:15:33.364 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-27 15:15:33.380 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-27 15:15:33.381 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-27 15:15:38.476 ## Mapper.Shutdown()
+2018-09-27 15:15:38.856 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-27 15:15:38.874 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-27 15:15:38.875 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-27 15:15:39.972 ## Mapper.Shutdown()
+2018-09-27 15:15:40.328 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-27 15:15:40.370 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-27 15:15:40.371 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-27 15:15:40.725 ## Mapper.Shutdown()
+2018-09-27 15:15:41.294 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-27 15:15:41.311 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-27 15:15:41.313 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-27 15:15:45.943 ## Mapper.Shutdown()
+2018-09-27 15:15:47.376 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-09-27 15:15:47.378 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-09-27 15:15:47.404 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-09-27 15:15:47.405 -- Bus Open   : Offset 0
+2018-09-27 15:15:47.407 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-09-27 15:15:47.427 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-09-27 15:15:47.437 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-09-27 15:15:47.442 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-09-27 15:15:47.440 -- USB Device : HID_Worker_Thread Starting
+2018-09-27 23:54:00.600 ## Mapper.Shutdown()
+2018-10-05 15:03:31.068 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-10-05 15:03:31.083 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-10-05 15:03:31.114 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-10-05 15:03:31.116 -- Bus Open   : Offset 0
+2018-10-05 15:03:31.118 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-10-05 15:03:31.140 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-10-05 15:03:54.725 ## Mapper.Shutdown()
+2018-10-05 15:03:55.682 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-10-05 15:03:55.714 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-10-05 15:03:55.729 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-10-05 15:03:57.404 ## Mapper.Shutdown()
+2018-10-05 15:03:59.111 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-10-05 15:03:59.114 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-10-05 15:03:59.140 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-10-05 15:03:59.141 -- Bus Open   : Offset 0
+2018-10-05 15:03:59.143 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-10-05 15:03:59.164 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-10-05 15:04:03.857 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-10-05 15:04:05.768 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-10-05 15:04:05.768 -- DS3 Arrival Event
+2018-10-05 15:04:05.774 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-10-05 15:04:05.777 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-10-05 15:04:05.783 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-10-05 15:04:05.780 -- USB Device : HID_Worker_Thread Starting
+2018-10-05 15:05:37.235 ## Mapper.Shutdown()
+2018-10-05 15:05:37.237 -- USB Device : HID_Worker_Thread Exiting
+2018-10-05 15:05:37.675 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-10-05 15:05:37.689 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-10-05 15:05:37.689 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-10-05 15:05:37.691 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-10-05 15:05:37.694 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-10-05 15:05:37.692 -- USB Device : HID_Worker_Thread Starting
+2018-10-05 15:46:35.982 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-10-05 15:46:35.983 -- Device Removal [AC:7A:4D:14:D3:A9]
+2018-10-05 15:46:35.984 -- USB Device : HID_Worker_Thread Exiting
+2018-10-05 20:44:20.094 ## Mapper.Shutdown()
+2018-10-05 22:41:23.863 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-10-05 22:41:23.880 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-10-05 22:41:23.914 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-10-05 22:41:23.916 -- Bus Open   : Offset 0
+2018-10-05 22:41:23.918 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-10-05 22:41:23.939 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-10-05 22:41:25.891 ## Mapper.Shutdown()
+2018-10-08 17:38:34.846 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-10-08 17:38:34.858 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-10-08 17:38:34.933 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-10-08 17:38:34.935 -- Bus Open   : Offset 0
+2018-10-08 17:38:34.940 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-10-08 17:38:34.991 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-10-08 17:38:40.553 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-10-08 17:38:43.846 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-10-08 17:38:43.847 -- DS3 Arrival Event
+2018-10-08 17:38:43.853 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-10-08 17:38:43.856 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-10-08 17:38:43.863 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-10-08 17:38:43.860 -- USB Device : HID_Worker_Thread Starting
+2018-10-08 17:38:44.587 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-10-08 17:38:44.587 -- Device Removal [AC:7A:4D:14:D3:A9]
+2018-10-08 17:38:44.588 -- USB Device : HID_Worker_Thread Exiting
+2018-10-08 17:38:49.943 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-10-08 17:38:49.944 -- DS3 Arrival Event
+2018-10-08 17:38:55.371 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-10-08 17:38:57.572 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-10-08 17:38:57.572 -- DS3 Arrival Event
+2018-10-08 17:39:04.165 ## Mapper.Shutdown()
+2018-10-08 17:39:04.848 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-10-08 17:39:04.867 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-10-08 17:39:04.894 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-10-08 17:39:05.527 ## Mapper.Shutdown()
+2018-10-08 17:39:20.862 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-10-08 17:39:20.865 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-10-08 17:39:20.893 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-10-08 17:39:20.894 -- Bus Open   : Offset 0
+2018-10-08 17:39:20.896 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-10-08 17:39:20.918 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-10-08 17:39:28.253 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-10-08 17:39:30.104 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-10-08 17:39:30.105 -- DS3 Arrival Event
+2018-10-08 17:39:30.111 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-10-08 17:39:30.114 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-10-08 17:39:30.120 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-10-08 17:39:30.117 -- USB Device : HID_Worker_Thread Starting
+2018-10-08 18:25:20.805 ## Mapper.Shutdown()
+2018-10-09 17:02:44.985 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-10-09 17:02:45.013 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-10-09 17:02:45.719 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-10-09 17:02:45.722 -- Bus Open   : Offset 0
+2018-10-09 17:02:45.728 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-10-09 17:02:45.897 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-10-09 17:03:05.933 ## Mapper.Shutdown()
+2018-10-09 17:03:06.443 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-10-09 17:03:06.456 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-10-09 17:03:06.495 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-10-09 17:03:07.637 ## Mapper.Shutdown()
+2018-10-09 17:03:09.606 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-10-09 17:03:09.609 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-10-09 17:03:09.640 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-10-09 17:03:09.641 -- Bus Open   : Offset 0
+2018-10-09 17:03:09.653 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-10-09 17:03:09.678 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-10-09 17:03:12.823 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-10-09 17:03:14.954 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-10-09 17:03:14.954 -- DS3 Arrival Event
+2018-10-09 17:03:15.036 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-10-09 17:03:15.100 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-10-09 17:03:15.248 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-10-09 17:03:15.104 -- USB Device : HID_Worker_Thread Starting
+2018-10-09 17:54:16.958 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-10-09 17:54:17.046 -- Device Removal [AC:7A:4D:14:D3:A9]
+2018-10-09 17:54:17.047 -- USB Device : HID_Worker_Thread Exiting
+2018-10-09 22:21:11.499 ## Mapper.Shutdown()
+2018-10-15 22:08:15.680 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-10-15 22:08:15.695 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-10-15 22:08:16.302 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-10-15 22:08:16.303 -- Bus Open   : Offset 0
+2018-10-15 22:08:16.306 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-10-15 22:08:16.343 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-10-15 22:08:17.759 ## Mapper.Shutdown()
+2018-11-03 21:25:41.673 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-11-03 21:25:41.676 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-03 21:25:41.729 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-03 21:25:41.731 -- Bus Open   : Offset 0
+2018-11-03 21:25:41.733 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-11-03 21:25:41.755 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-03 21:25:43.410 ## Mapper.Shutdown()
+2018-11-11 15:10:43.587 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-11-11 15:10:43.591 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:10:43.627 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:10:43.628 -- Bus Open   : Offset 0
+2018-11-11 15:10:43.632 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-11-11 15:10:43.653 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:10:51.187 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-11 15:10:52.501 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-11 15:10:52.502 -- DS3 Arrival Event
+2018-11-11 15:10:52.507 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-11-11 15:10:52.510 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-11-11 15:10:52.515 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&12] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-11-11 15:10:52.512 -- USB Device : HID_Worker_Thread Starting
+2018-11-11 15:13:33.572 ## Mapper.Shutdown()
+2018-11-11 15:13:33.752 -- USB Device : HID_Worker_Thread Exiting
+2018-11-11 15:20:42.086 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-11-11 15:20:42.089 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:20:42.121 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:20:42.122 -- Bus Open   : Offset 0
+2018-11-11 15:20:42.125 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-11-11 15:20:42.145 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:20:55.338 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-11 15:20:56.472 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-11 15:20:56.472 -- DS3 Arrival Event
+2018-11-11 15:21:00.275 ## Mapper.Shutdown()
+2018-11-11 15:21:00.640 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:21:00.655 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:21:00.656 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:21:01.429 ## Mapper.Shutdown()
+2018-11-11 15:21:01.879 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:21:01.895 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:21:01.895 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:21:02.511 ## Mapper.Shutdown()
+2018-11-11 15:21:05.224 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-11-11 15:21:05.226 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:21:05.253 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:21:05.254 -- Bus Open   : Offset 0
+2018-11-11 15:21:05.256 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-11-11 15:21:05.278 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:21:10.238 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-11 15:21:12.485 ## Mapper.Shutdown()
+2018-11-11 15:21:14.869 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-11-11 15:21:14.872 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:21:14.897 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:21:14.898 -- Bus Open   : Offset 0
+2018-11-11 15:21:14.900 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-11-11 15:21:14.921 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:21:17.236 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-11 15:21:17.236 -- DS3 Arrival Event
+2018-11-11 15:21:21.283 ## Mapper.Shutdown()
+2018-11-11 15:21:21.735 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:21:21.749 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:21:21.750 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:21:23.735 ## Mapper.Shutdown()
+2018-11-11 15:21:23.960 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:21:23.975 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:21:23.975 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:21:24.604 ## Mapper.Shutdown()
+2018-11-11 15:21:25.016 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:21:25.032 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:21:25.032 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:21:25.618 ## Mapper.Shutdown()
+2018-11-11 15:21:25.932 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:21:25.949 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:21:25.950 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:21:26.894 ## Mapper.Shutdown()
+2018-11-11 15:21:27.287 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:21:27.298 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:21:27.298 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:21:27.962 ## Mapper.Shutdown()
+2018-11-11 15:21:29.407 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:21:29.417 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:21:29.418 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:21:30.586 ## Mapper.Shutdown()
+2018-11-11 15:23:53.012 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-11-11 15:23:53.055 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:23:53.095 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:23:53.096 -- Bus Open   : Offset 0
+2018-11-11 15:23:53.100 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-11-11 15:23:53.124 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:23:59.793 ## Mapper.Shutdown()
+2018-11-11 15:24:00.274 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:24:00.289 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:24:00.289 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:24:04.545 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-11 15:24:05.458 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-11 15:24:05.458 -- DS3 Arrival Event
+2018-11-11 15:24:08.052 ## Mapper.Shutdown()
+2018-11-11 15:24:08.698 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:24:08.709 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:24:08.710 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:24:10.383 ## Mapper.Shutdown()
+2018-11-11 15:24:12.097 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-11 15:24:13.742 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-11 15:24:13.743 -- DS3 Arrival Event
+2018-11-11 15:24:13.750 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-11-11 15:24:13.752 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-11-11 15:24:19.195 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:24:19.207 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:24:19.207 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:24:21.649 ## Mapper.Shutdown()
+2018-11-11 15:24:22.352 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:24:22.364 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:24:22.364 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:24:28.108 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-11 15:24:29.078 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-11 15:24:29.163 -- DS3 Arrival Event
+2018-11-11 15:24:33.072 ## Mapper.Shutdown()
+2018-11-11 15:24:33.481 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:24:33.933 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:24:33.933 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:24:37.539 ## Mapper.Shutdown()
+2018-11-11 15:25:02.372 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-11-11 15:25:02.375 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:25:02.400 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:25:02.401 -- Bus Open   : Offset 0
+2018-11-11 15:25:02.404 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-11-11 15:25:02.425 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:25:04.642 ## Mapper.Shutdown()
+2018-11-11 15:25:05.048 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-11 15:25:05.085 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-11 15:25:05.086 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-11 15:25:06.699 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-11 15:25:11.897 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-11 15:25:11.897 -- DS3 Arrival Event
+2018-11-11 15:25:11.902 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-11-11 15:25:11.905 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-11-11 15:25:11.911 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&12] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-11-11 15:25:11.908 -- USB Device : HID_Worker_Thread Starting
+2018-11-12 01:48:42.791 ## Mapper.Shutdown()
+2018-11-14 15:29:30.080 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-11-14 15:29:30.158 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-14 15:29:30.512 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-14 15:29:30.513 -- Bus Open   : Offset 0
+2018-11-14 15:29:30.515 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-11-14 15:29:30.534 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-14 15:32:20.321 ## Mapper.Shutdown()
+2018-11-14 15:32:20.870 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-14 15:32:20.883 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-14 15:32:20.884 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-14 15:32:21.538 ## Mapper.Shutdown()
+2018-11-14 15:32:23.550 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-14 15:32:24.884 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-14 15:32:24.884 -- DS3 Arrival Event
+2018-11-14 15:32:27.739 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-14 15:32:27.768 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-14 15:32:27.915 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-14 15:32:31.241 ## Mapper.Shutdown()
+2018-11-14 15:32:32.850 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-11-14 15:32:32.853 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-14 15:32:32.879 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-14 15:32:32.880 -- Bus Open   : Offset 0
+2018-11-14 15:32:32.883 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-11-14 15:32:32.903 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-14 15:32:35.068 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-14 15:32:36.170 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-14 15:32:36.171 -- DS3 Arrival Event
+2018-11-14 15:32:36.235 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-11-14 15:32:36.262 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-11-14 15:32:36.296 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&12] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-11-14 15:32:36.269 -- USB Device : HID_Worker_Thread Starting
+2018-11-22 16:44:04.025 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-11-22 16:44:04.041 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-22 16:44:04.086 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-22 16:44:04.087 -- Bus Open   : Offset 0
+2018-11-22 16:44:04.089 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-11-22 16:44:04.110 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-22 16:44:06.765 ## Mapper.Shutdown()
+2018-11-22 16:44:07.258 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-22 16:44:07.270 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-22 16:44:07.270 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-22 16:44:08.482 ## Mapper.Shutdown()
+2018-11-22 16:44:09.850 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-22 16:44:11.477 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-22 16:44:11.478 -- DS3 Arrival Event
+2018-11-22 16:44:11.483 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-11-22 16:44:11.486 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-11-22 16:44:13.234 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-22 16:44:13.252 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-22 16:44:13.252 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-22 16:44:15.577 ## Mapper.Shutdown()
+2018-11-22 16:44:15.909 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-22 16:44:15.926 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-22 16:44:15.927 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-22 16:44:18.187 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-22 16:44:19.467 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-22 16:44:19.467 -- DS3 Arrival Event
+2018-11-22 16:44:26.418 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-22 16:44:27.717 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-22 16:44:27.718 -- DS3 Arrival Event
+2018-11-22 16:44:31.727 ## Mapper.Shutdown()
+2018-11-22 16:44:32.156 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-22 16:44:32.168 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-22 16:44:32.168 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-22 16:44:33.964 ## Mapper.Shutdown()
+2018-11-22 16:44:35.085 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-11-22 16:44:35.088 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-22 16:44:35.116 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-22 16:44:35.118 -- Bus Open   : Offset 0
+2018-11-22 16:44:35.120 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-11-22 16:44:35.141 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-22 16:44:36.884 ## Mapper.Shutdown()
+2018-11-22 16:44:37.417 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-22 16:44:37.429 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-22 16:44:37.429 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-22 16:44:40.746 ## Mapper.Shutdown()
+2018-11-22 16:44:47.219 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-11-22 16:44:47.222 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-22 16:44:47.248 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-22 16:44:47.249 -- Bus Open   : Offset 0
+2018-11-22 16:44:47.252 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-11-22 16:44:47.272 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-22 16:44:50.735 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-22 16:44:50.736 -- DS3 Arrival Event
+2018-11-22 16:45:01.729 ## Mapper.Shutdown()
+2018-11-22 16:45:02.082 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-22 16:45:02.095 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-22 16:45:02.095 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-22 16:45:03.526 ## Mapper.Shutdown()
+2018-11-22 16:49:19.756 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-11-22 16:49:19.907 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-22 16:49:19.957 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-22 16:49:19.959 -- Bus Open   : Offset 0
+2018-11-22 16:49:19.964 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-11-22 16:49:19.997 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-22 16:49:32.295 ## Mapper.Shutdown()
+2018-11-22 16:49:32.718 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-22 16:49:32.730 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-22 16:49:32.731 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-22 16:49:33.434 ## Mapper.Shutdown()
+2018-11-22 16:49:36.215 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&12#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-22 16:49:38.682 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-22 16:49:38.682 -- DS3 Arrival Event
+2018-11-22 16:49:38.698 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2018-11-22 16:49:38.698 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-11-22 16:49:41.086 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-22 16:49:41.100 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-22 16:49:41.101 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-22 16:49:48.918 ## Mapper.Shutdown()
+2018-11-22 16:51:20.795 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2018-11-22 16:51:20.797 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2018-11-22 16:51:20.822 ++ Windows 81 (6.2.9200.0 AMD64)
+2018-11-22 16:51:20.824 -- Bus Open   : Offset 0
+2018-11-22 16:51:20.826 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2018-11-22 16:51:20.846 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2018-11-22 16:51:20.856 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2018-11-22 16:51:20.861 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2018-11-22 16:51:20.859 -- USB Device : HID_Worker_Thread Starting
+2018-11-22 17:31:54.814 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2018-11-22 17:31:54.815 -- Device Removal [AC:7A:4D:14:D3:A9]
+2018-11-22 17:31:54.816 -- USB Device : HID_Worker_Thread Exiting
+2018-11-22 20:40:26.377 ## Mapper.Shutdown()
+2019-04-02 21:38:13.864 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2019-04-02 21:38:13.920 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2019-04-02 21:38:14.550 ++ Windows 81 (6.2.9200.0 AMD64)
+2019-04-02 21:38:14.561 -- Bus Open   : Offset 0
+2019-04-02 21:38:14.570 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2019-04-02 21:38:14.703 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2019-04-02 21:38:17.105 ## Mapper.Shutdown()
+2019-04-14 23:34:13.716 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2019-04-14 23:34:13.756 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2019-04-14 23:34:14.149 ++ Windows 81 (6.2.9200.0 AMD64)
+2019-04-14 23:34:14.151 -- Bus Open   : Offset 0
+2019-04-14 23:34:14.163 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2019-04-14 23:34:14.273 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2019-04-14 23:34:15.863 ## Mapper.Shutdown()
+2019-08-30 23:29:20.223 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2019-08-30 23:29:20.261 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2019-08-30 23:29:20.348 ++ Windows 81 (6.2.9200.0 AMD64)
+2019-08-30 23:29:20.361 -- Bus Open   : Offset 0
+2019-08-30 23:29:20.371 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2019-08-30 23:29:20.491 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2019-08-30 23:31:29.439 ## Mapper.Shutdown()
+2019-08-31 22:00:46.299 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2019-08-31 22:00:46.349 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2019-08-31 22:00:46.710 ++ Windows 81 (6.2.9200.0 AMD64)
+2019-08-31 22:00:46.714 -- Bus Open   : Offset 0
+2019-08-31 22:00:46.721 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2019-08-31 22:00:46.760 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2019-08-31 22:01:01.878 ## Mapper.Shutdown()
+2019-08-31 22:49:04.731 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2019-08-31 22:49:04.753 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2019-08-31 22:49:04.822 ++ Windows 81 (6.2.9200.0 AMD64)
+2019-08-31 22:49:04.824 -- Bus Open   : Offset 0
+2019-08-31 22:49:04.826 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2019-08-31 22:49:04.848 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2019-09-19 22:31:08.907 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2019-09-19 22:31:08.939 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2019-09-19 22:31:09.063 ++ Windows 81 (6.2.9200.0 AMD64)
+2019-09-19 22:31:09.065 -- Bus Open   : Offset 0
+2019-09-19 22:31:09.068 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2019-09-19 22:31:09.093 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2019-09-19 23:17:23.105 ## Mapper.Shutdown()
+2019-10-04 21:55:54.838 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2019-10-04 21:55:55.005 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2019-10-04 21:55:55.692 ++ Windows 81 (6.2.9200.0 AMD64)
+2019-10-04 21:55:55.702 -- Bus Open   : Offset 0
+2019-10-04 21:55:55.734 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2019-10-04 21:55:55.986 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2019-10-04 22:13:41.993 ## Mapper.Shutdown()
+2020-01-10 19:07:46.956 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-01-10 19:07:46.968 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-01-10 19:07:47.239 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-01-10 19:07:47.248 -- Bus Open   : Offset 0
+2020-01-10 19:07:47.258 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-01-10 19:07:47.460 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-01-10 19:08:00.933 ## Mapper.Shutdown()
+2020-01-10 19:08:21.097 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-01-10 19:08:21.101 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-01-10 19:08:21.133 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-01-10 19:08:21.135 -- Bus Open   : Offset 0
+2020-01-10 19:08:21.138 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-01-10 19:08:21.163 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-01-10 19:08:24.726 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#6&356B4755&0&3#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2020-01-10 19:08:41.122 ## Mapper.Shutdown()
+2020-01-10 19:08:41.588 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-01-10 19:08:41.604 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-01-10 19:08:41.604 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-01-10 19:08:42.708 ## Mapper.Shutdown()
+2020-01-10 19:08:43.275 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-01-10 19:08:43.291 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-01-10 19:08:43.292 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-01-10 19:08:44.086 ## Mapper.Shutdown()
+2020-01-10 19:08:44.552 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-01-10 19:08:44.570 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-01-10 19:08:44.571 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-01-10 19:08:54.927 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#6&356B4755&0&3#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2020-01-10 19:08:54.928 -- DS3 Arrival Event
+2020-01-10 19:08:54.934 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2020-01-10 19:08:54.937 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2020-01-10 19:08:54.942 -- Started Device Instance [USB\VID_054C&PID_0268\6&356B4755&0&3] Local [AC:7A:4D:14:D3:A9] Remote [34:68:95:CA:B7:49]
+2020-01-10 19:08:54.939 -- USB Device : HID_Worker_Thread Starting
+2020-01-10 20:39:37.227 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#6&356B4755&0&3#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2020-01-10 20:39:37.229 -- Device Removal [AC:7A:4D:14:D3:A9]
+2020-01-10 20:39:37.231 -- USB Device : HID_Worker_Thread Exiting
+2020-01-11 00:02:31.475 ## Mapper.Shutdown()
+2020-01-26 17:42:19.031 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-01-26 17:42:19.052 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-01-26 17:42:19.078 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-01-26 17:42:19.079 -- Bus Open   : Offset 0
+2020-01-26 17:42:19.083 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-01-26 17:42:19.104 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-01-26 17:42:33.885 ## Mapper.Shutdown()
+2020-01-26 17:42:34.350 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-01-26 17:42:34.361 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-01-26 17:42:34.378 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-01-26 17:42:35.297 ## Mapper.Shutdown()
+2020-01-26 17:42:35.736 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-01-26 17:42:35.748 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-01-26 17:42:35.749 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-01-26 17:42:37.137 ## Mapper.Shutdown()
+2020-01-26 17:42:37.580 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-01-26 17:42:37.594 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-01-26 17:42:37.594 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-01-26 17:42:39.158 ## Mapper.Shutdown()
+2020-01-26 17:42:41.616 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-01-26 17:42:41.620 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-01-26 17:42:41.646 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-01-26 17:42:41.647 -- Bus Open   : Offset 0
+2020-01-26 17:42:41.650 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-01-26 17:42:41.672 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-01-26 17:42:42.691 ## Mapper.Shutdown()
+2020-01-26 17:42:43.977 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-01-26 17:42:43.993 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-01-26 17:42:43.995 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-01-26 17:43:39.590 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#6&356B4755&0&3#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2020-01-26 17:43:39.591 -- DS3 Arrival Event
+2020-01-26 17:43:39.618 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2020-01-26 17:43:39.640 -- Bus Plugin : Serial 1
+2020-01-26 17:43:39.640 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2020-01-26 17:43:39.688 -- Started Device Instance [USB\VID_054C&PID_0268\6&356B4755&0&3] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2020-01-26 17:43:39.644 -- USB Device : HID_Worker_Thread Starting
+2020-01-26 18:32:23.651 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-01-26 18:32:23.673 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-01-26 18:32:23.708 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-01-26 18:32:23.709 -- Bus Open   : Offset 0
+2020-01-26 18:32:23.712 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-01-26 18:32:23.734 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-01-26 18:32:28.869 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#6&356B4755&0&3#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2020-01-26 18:32:30.817 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#6&356B4755&0&3#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2020-01-26 18:32:30.817 -- DS3 Arrival Event
+2020-01-26 18:32:30.823 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2020-01-26 18:32:30.828 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2020-01-26 18:32:30.833 -- Started Device Instance [USB\VID_054C&PID_0268\6&356B4755&0&3] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2020-01-26 18:32:30.830 -- USB Device : HID_Worker_Thread Starting
+2020-01-26 18:52:33.399 ## Mapper.Shutdown()
+2020-01-26 18:52:33.449 -- USB Device : HID_Worker_Thread Exiting
+2020-01-26 18:52:33.949 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-01-26 18:52:33.970 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-01-26 18:52:33.989 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-01-26 18:52:33.991 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2020-01-26 18:52:33.994 -- Started Device Instance [USB\VID_054C&PID_0268\6&356B4755&0&3] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2020-01-26 18:52:33.992 -- USB Device : HID_Worker_Thread Starting
+2020-01-26 23:49:34.291 ## Mapper.Shutdown()
+2020-01-26 23:49:37.054 -- USB Device : HID_Worker_Thread Exiting
+2020-02-12 18:26:31.696 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-02-12 18:26:31.714 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-02-12 18:26:31.753 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-02-12 18:26:31.755 -- Bus Open   : Offset 0
+2020-02-12 18:26:31.758 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-02-12 18:26:31.791 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-02-12 18:27:23.979 ## Mapper.Shutdown()
+2020-02-12 18:27:24.697 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-02-12 18:27:24.717 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-02-12 18:27:24.743 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-02-12 18:27:26.120 ## Mapper.Shutdown()
+2020-02-12 18:27:29.176 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-02-12 18:27:29.179 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-02-12 18:27:29.214 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-02-12 18:27:29.215 -- Bus Open   : Offset 0
+2020-02-12 18:27:29.218 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-02-12 18:27:29.242 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-02-12 18:27:38.601 ## Mapper.Shutdown()
+2020-02-12 18:27:39.368 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-02-12 18:27:39.388 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-02-12 18:27:39.389 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-02-12 18:28:45.699 ## Mapper.Shutdown()
+2020-02-12 18:37:52.402 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-02-12 18:37:52.582 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-02-12 18:37:52.611 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-02-12 18:37:52.613 -- Bus Open   : Offset 0
+2020-02-12 18:37:52.616 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-02-12 18:37:52.638 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-02-12 18:38:29.422 ## Mapper.Shutdown()
+2020-02-12 18:38:30.039 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-02-12 18:38:30.052 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-02-12 18:38:30.082 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-02-12 18:38:31.655 ## Mapper.Shutdown()
+2020-02-16 17:12:59.423 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-02-16 17:12:59.439 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-02-16 17:12:59.487 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-02-16 17:12:59.489 -- Bus Open   : Offset 0
+2020-02-16 17:12:59.493 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-02-16 17:12:59.521 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-02-16 17:13:01.196 ## Mapper.Shutdown()
+2020-02-17 21:03:52.120 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-02-17 21:03:52.147 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-02-17 21:03:52.179 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-02-17 21:03:52.180 -- Bus Open   : Offset 0
+2020-02-17 21:03:52.183 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-02-17 21:03:52.209 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-02-17 23:05:23.424 ## Mapper.Shutdown()
+2020-02-18 16:53:05.904 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-02-18 16:53:05.932 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-02-18 16:53:06.056 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-02-18 16:53:06.059 -- Bus Open   : Offset 0
+2020-02-18 16:53:06.062 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-02-18 16:53:06.098 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-02-18 17:28:45.354 ## Mapper.Shutdown()
+2020-02-28 19:10:24.024 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-02-28 19:10:24.028 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-02-28 19:10:24.070 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-02-28 19:10:24.071 -- Bus Open   : Offset 0
+2020-02-28 19:10:24.074 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-02-28 19:10:24.107 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-02-28 19:10:34.581 ## Mapper.Shutdown()
+2020-02-28 19:10:35.080 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-02-28 19:10:35.102 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-02-28 19:10:35.125 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-02-28 19:11:25.917 ## Mapper.Shutdown()
+2020-02-28 19:11:26.431 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-02-28 19:11:26.452 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-02-28 19:11:26.454 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-02-28 19:11:27.576 ## Mapper.Shutdown()
+2020-02-28 19:11:28.842 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-02-28 19:11:28.870 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-02-28 19:11:28.871 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-02-28 19:11:33.556 ## Mapper.Shutdown()
+2020-02-28 19:11:43.394 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-02-28 19:11:43.420 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-02-28 19:11:43.420 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-02-29 00:49:36.521 ## Mapper.Shutdown()
+2020-03-13 17:09:47.950 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-03-13 17:09:47.953 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-03-13 17:09:47.994 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-03-13 17:09:47.996 -- Bus Open   : Offset 0
+2020-03-13 17:09:48.000 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-03-13 17:09:48.036 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-03-13 17:14:51.804 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-03-13 17:14:51.945 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-03-13 17:14:51.976 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-03-13 17:14:51.976 -- Bus Open   : Offset 0
+2020-03-13 17:14:51.976 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-03-13 17:14:51.992 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-03-13 17:15:49.414 ## Mapper.Shutdown()
+2020-03-13 17:15:51.349 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-03-13 17:15:51.363 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-03-13 17:15:51.390 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-03-13 17:17:02.954 ## Mapper.Shutdown()
+2020-03-13 17:17:03.523 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-03-13 17:17:03.534 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-03-13 17:17:03.535 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-03-13 17:17:03.972 ## Mapper.Shutdown()
+2020-03-13 17:17:04.581 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-03-13 17:17:04.592 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-03-13 17:17:04.593 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-03-13 17:18:28.079 ## Mapper.Shutdown()
+2020-03-13 17:18:28.900 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-03-13 17:18:28.916 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-03-13 17:18:28.917 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-03-13 17:18:28.919 -- Controller : UDP_Worker_Thread Starting
+2020-03-13 17:21:53.780 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-03-13 17:21:53.783 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-03-13 17:21:53.809 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-03-13 17:21:53.810 -- Bus Open   : Offset 0
+2020-03-13 17:21:53.813 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-03-13 17:21:53.833 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-03-13 17:21:53.907 -- Bus Plugin : Serial 1
+2020-03-13 17:21:53.907 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2020-03-13 17:21:53.938 -- Started Device Instance [USB\VID_054C&PID_0268\6&356B4755&1&4] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2020-03-13 17:21:53.912 -- USB Device : HID_Worker_Thread Starting
+2020-03-13 17:21:53.944 -- Controller : UDP_Worker_Thread Starting
+2020-03-13 17:31:52.939 ## Mapper.Shutdown()
+2020-03-13 17:31:52.972 -- Bus Unplug : Serial 1
+2020-03-13 17:31:52.939 -- Controller : UDP_Worker_Thread Exiting
+2020-03-13 17:31:53.116 -- USB Device : HID_Worker_Thread Exiting
+2020-09-11 18:31:10.152 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-09-11 18:31:10.183 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-09-11 18:31:10.227 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-09-11 18:31:10.228 -- Bus Open   : Offset 0
+2020-09-11 18:31:10.232 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-09-11 18:31:10.258 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-09-11 18:31:41.845 ## Mapper.Shutdown()
+2020-09-11 18:31:42.355 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-09-11 18:31:42.382 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-09-11 18:31:42.408 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-09-11 18:31:43.691 ## Mapper.Shutdown()
+2020-09-11 18:31:49.100 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-09-11 18:31:49.103 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-09-11 18:31:49.144 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-09-11 18:31:49.146 -- Bus Open   : Offset 0
+2020-09-11 18:31:49.149 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-09-11 18:31:49.175 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-09-11 18:32:24.732 ## Mapper.Shutdown()
+2020-09-11 18:32:25.466 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-09-11 18:32:25.493 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-09-11 18:32:25.494 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-09-11 18:32:35.688 ## Mapper.Shutdown()
+2020-09-11 18:32:36.568 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-09-11 18:32:36.598 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-09-11 18:32:36.599 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-09-11 18:33:02.256 ## Mapper.Shutdown()
+2020-09-11 18:36:53.079 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-09-11 18:36:53.083 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-09-11 18:36:53.135 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-09-11 18:36:53.137 -- Bus Open   : Offset 0
+2020-09-11 18:36:53.141 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-09-11 18:36:53.167 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-09-11 18:36:55.278 ## Mapper.Shutdown()
+2020-09-11 18:39:46.400 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-09-11 18:39:46.462 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-09-11 18:40:05.587 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-09-11 18:40:05.587 -- Bus Open   : Offset 0
+2020-09-11 18:40:05.587 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-09-11 18:40:05.603 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-09-11 18:40:05.634 -- Controller : UDP_Worker_Thread Starting
+2020-09-11 18:40:17.453 ## Mapper.Shutdown()
+2020-09-11 18:40:17.735 -- Controller : UDP_Worker_Thread Exiting
+2020-09-11 18:40:20.016 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-09-11 18:40:25.328 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-09-11 18:40:25.375 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-09-11 18:40:25.391 -- Controller : UDP_Worker_Thread Starting
+2020-09-11 18:41:19.353 ## Mapper.Shutdown()
+2020-09-11 18:41:19.353 -- Controller : UDP_Worker_Thread Exiting
+2020-09-11 18:41:19.874 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-09-11 18:41:19.889 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-09-11 18:41:19.889 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-09-11 18:41:19.905 -- Controller : UDP_Worker_Thread Starting
+2020-09-11 18:42:01.385 ## Mapper.Shutdown()
+2020-09-11 18:42:26.021 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-09-11 18:42:26.024 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-09-11 18:42:26.050 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-09-11 18:42:26.051 -- Bus Open   : Offset 0
+2020-09-11 18:42:26.054 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-09-11 18:42:26.075 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-09-11 18:42:26.083 -- Controller : UDP_Worker_Thread Starting
+2020-09-11 18:42:27.954 ## Mapper.Shutdown()
+2020-09-11 18:42:27.954 -- Controller : UDP_Worker_Thread Exiting
+2020-09-11 18:43:02.387 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-09-11 18:43:02.389 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-09-11 18:43:02.414 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-09-11 18:43:02.415 -- Bus Open   : Offset 0
+2020-09-11 18:43:02.417 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-09-11 18:43:02.437 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-09-11 18:43:02.445 -- Controller : UDP_Worker_Thread Starting
+2020-09-11 18:43:41.322 ## Mapper.Shutdown()
+2020-09-11 18:44:35.010 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-09-11 18:44:35.013 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-09-11 18:44:35.038 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-09-11 18:44:35.039 -- Bus Open   : Offset 0
+2020-09-11 18:44:35.041 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-09-11 18:44:35.061 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-09-11 18:44:35.145 -- Bus Plugin : Serial 1
+2020-09-11 18:44:35.145 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2020-09-11 18:44:35.153 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2020-09-11 18:44:35.150 -- USB Device : HID_Worker_Thread Starting
+2020-09-11 18:44:35.158 -- Controller : UDP_Worker_Thread Starting
+2020-09-11 23:28:18.933 ## Mapper.Shutdown()
+2020-09-11 23:28:19.086 -- Bus Unplug : Serial 1
+2020-11-17 22:37:08.969 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-11-17 22:37:08.982 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-11-17 22:37:09.027 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-11-17 22:37:09.028 -- Bus Open   : Offset 0
+2020-11-17 22:37:09.031 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-11-17 22:37:09.053 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-11-17 23:19:35.650 ## Mapper.Shutdown()
+2020-12-11 02:39:49.361 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-12-11 02:39:49.378 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-12-11 02:39:49.404 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-12-11 02:39:49.406 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-12-11 02:39:49.444 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-12-11 02:39:49.445 -- Bus Open   : Offset 0
+2020-12-11 02:39:49.447 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-12-11 02:39:49.448 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-12-11 02:39:49.448 -- Bus Open   : Offset 0
+2020-12-11 02:39:49.451 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-12-11 02:39:49.475 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-12-11 02:39:49.643 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-12-11 02:39:49.686 ++ Windows 81 (6.2.9200.0 AMD64)
+2020-12-11 02:39:49.688 -- Bus Open   : Offset 0
+2020-12-11 02:39:49.691 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-12-11 02:39:49.714 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-12-11 02:39:51.163 ## Mapper.Shutdown()
+2020-12-11 02:39:51.790 ## Mapper.Shutdown()
+2020-12-11 02:39:52.274 ## Mapper.Shutdown()
+2020-12-24 13:14:59.794 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-12-24 13:15:00.094 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-12-24 13:15:02.796 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2020-12-24 13:15:02.798 -- Bus Open   : Offset 0
+2020-12-24 13:15:02.860 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-12-24 13:15:03.735 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-12-24 13:15:04.650 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-12-24 13:15:09.757 ## Mapper.Shutdown()
+2020-12-24 13:15:10.348 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-12-24 13:15:10.413 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2020-12-24 13:15:10.433 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-12-24 13:15:29.145 ## Mapper.Shutdown()
+2020-12-24 13:15:34.346 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2020-12-24 13:15:34.350 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2020-12-24 13:15:34.420 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2020-12-24 13:15:34.423 -- Bus Open   : Offset 0
+2020-12-24 13:15:34.429 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2020-12-24 13:15:34.465 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2020-12-24 13:16:15.906 ## Mapper.Shutdown()
+2021-01-08 22:30:34.633 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-01-08 22:30:34.642 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-01-08 22:30:35.174 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-01-08 22:30:35.178 -- Bus Open   : Offset 0
+2021-01-08 22:30:35.190 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-01-08 22:30:35.310 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-01-08 22:30:36.254 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-01-09 00:24:25.779 ## Mapper.Shutdown()
+2021-02-01 19:46:55.556 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-02-01 19:46:55.577 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-02-01 19:46:55.702 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-02-01 19:46:55.704 -- Bus Open   : Offset 0
+2021-02-01 19:46:55.710 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-02-01 19:46:55.840 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-02-01 19:46:56.818 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-02-01 21:41:13.789 ## Mapper.Shutdown()
+2021-03-22 19:05:40.898 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-03-22 19:05:40.975 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-03-22 19:05:41.222 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-03-22 19:05:41.224 -- Bus Open   : Offset 0
+2021-03-22 19:05:41.229 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-03-22 19:05:41.352 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-03-22 19:05:42.354 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-03-22 19:05:59.458 ## Mapper.Shutdown()
+2021-03-27 22:02:43.778 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-03-27 22:02:43.841 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-03-27 22:02:45.947 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-03-27 22:02:45.949 -- Bus Open   : Offset 0
+2021-03-27 22:02:45.960 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-03-27 22:02:46.284 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-03-27 22:02:47.279 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-03-27 22:03:26.272 ## Mapper.Shutdown()
+2021-03-30 21:42:23.689 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-03-30 21:42:24.072 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-03-30 21:42:24.792 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-03-30 21:42:24.795 -- Bus Open   : Offset 0
+2021-03-30 21:42:24.810 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-03-30 21:42:24.975 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-03-30 21:42:25.971 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-03-30 21:43:20.196 ## Mapper.Shutdown()
+2021-04-19 14:52:07.043 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-04-19 14:52:07.608 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-19 14:52:07.848 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-19 14:52:07.905 -- Bus Open   : Offset 0
+2021-04-19 14:52:07.944 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-04-19 14:52:08.401 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-19 14:52:09.280 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-19 14:52:55.103 ## Mapper.Shutdown()
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              2021-04-23 12:58:18.920 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-04-23 12:58:19.067 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 12:58:19.306 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 12:58:19.308 -- Bus Open   : Offset 0
+2021-04-23 12:58:19.314 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-04-23 12:58:19.481 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 12:58:20.470 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 13:07:32.984 ## Mapper.Shutdown()
+2021-04-23 19:02:51.897 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-04-23 19:02:51.908 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:02:52.072 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:02:52.073 -- Bus Open   : Offset 0
+2021-04-23 19:02:52.078 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-04-23 19:02:52.159 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:02:53.158 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:03:53.563 ## Mapper.Shutdown()
+2021-04-23 19:03:53.951 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:03:54.012 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:03:54.027 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:11:04.944 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-04-23 19:11:05.006 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:11:05.057 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:11:05.057 -- Bus Open   : Offset 0
+2021-04-23 19:11:05.066 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-04-23 19:11:05.090 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:12:05.881 ## Mapper.Shutdown()
+2021-04-23 19:13:09.671 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:13:09.723 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:13:09.769 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:14:20.859 ## Mapper.Shutdown()
+2021-04-23 19:14:21.172 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:14:21.211 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:14:21.722 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:14:21.728 ## Mapper.Shutdown()
+2021-04-23 19:14:22.492 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:14:22.531 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:14:22.532 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:14:23.863 ## Mapper.Shutdown()
+2021-04-23 19:14:24.391 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:14:24.433 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:14:24.445 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:14:25.146 ## Mapper.Shutdown()
+2021-04-23 19:14:25.567 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:14:25.609 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:14:25.610 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:20:27.840 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-04-23 19:20:27.848 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:20:27.896 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:20:27.896 -- Bus Open   : Offset 0
+2021-04-23 19:20:27.896 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-04-23 19:20:27.920 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:20:31.561 ## Mapper.Shutdown()
+2021-04-23 19:20:45.968 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:20:46.000 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:20:46.043 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:20:47.695 ## Mapper.Shutdown()
+2021-04-23 19:20:48.137 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:20:48.164 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:20:48.164 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:20:48.519 ## Mapper.Shutdown()
+2021-04-23 19:20:48.953 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:20:48.985 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:20:48.985 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:20:51.696 ## Mapper.Shutdown()
+2021-04-23 19:22:59.778 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-04-23 19:22:59.782 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:22:59.894 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:22:59.895 -- Bus Open   : Offset 0
+2021-04-23 19:22:59.899 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-04-23 19:22:59.931 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:23:03.444 ## Mapper.Shutdown()
+2021-04-23 19:23:04.969 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:23:05.006 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:23:05.007 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:23:08.509 ## Mapper.Shutdown()
+2021-04-23 19:23:14.445 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-04-23 19:23:14.449 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:23:14.501 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:23:14.502 -- Bus Open   : Offset 0
+2021-04-23 19:23:14.505 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-04-23 19:23:14.526 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:23:18.461 ## Mapper.Shutdown()
+2021-04-23 19:23:18.930 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:23:18.964 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:23:18.965 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:23:19.486 ## Mapper.Shutdown()
+2021-04-23 19:23:19.957 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:23:19.996 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:23:19.997 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:25:39.746 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-04-23 19:25:39.750 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:25:39.803 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:25:39.805 -- Bus Open   : Offset 0
+2021-04-23 19:25:39.808 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-04-23 19:25:39.830 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:25:42.693 ## Mapper.Shutdown()
+2021-04-23 19:25:43.131 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:25:43.160 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:25:43.161 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:25:44.897 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:25:44.899 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:25:46.298 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:25:46.300 -- DS3 Arrival Event
+2021-04-23 19:25:46.340 -- DS3 Arrival Event
+2021-04-23 19:25:51.996 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:25:51.996 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:25:54.002 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:25:54.003 -- DS3 Arrival Event
+2021-04-23 19:25:54.002 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:25:54.004 -- DS3 Arrival Event
+2021-04-23 19:25:54.010 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2021-04-23 19:25:54.012 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-04-23 19:25:54.018 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-04-23 19:25:54.015 -- USB Device : HID_Worker_Thread Starting
+2021-04-23 19:25:57.093 ## Mapper.Shutdown()
+2021-04-23 19:25:58.919 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-04-23 19:25:58.922 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:25:58.975 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:25:58.976 -- Bus Open   : Offset 0
+2021-04-23 19:25:58.980 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-04-23 19:25:59.001 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:25:59.012 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-04-23 19:25:59.018 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-04-23 19:25:59.016 -- USB Device : HID_Worker_Thread Starting
+2021-04-23 19:28:22.554 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:28:22.557 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:28:22.560 -- Device Removal [AC:7A:4D:14:D3:A9]
+2021-04-23 19:28:22.561 -- USB Device : HID_Worker_Thread Exiting
+2021-04-23 19:28:24.783 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:28:24.784 -- DS3 Arrival Event
+2021-04-23 19:28:24.783 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:28:24.788 -- DS3 Arrival Event
+2021-04-23 19:28:24.790 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2021-04-23 19:28:24.793 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-04-23 19:28:24.799 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-04-23 19:28:24.796 -- USB Device : HID_Worker_Thread Starting
+2021-04-23 19:30:37.085 ## Mapper.Shutdown()
+2021-04-23 19:30:37.090 -- USB Device : HID_Worker_Thread Exiting
+2021-04-23 19:30:37.539 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:30:37.587 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:30:37.599 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:30:37.601 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-04-23 19:30:37.604 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-04-23 19:30:37.603 -- USB Device : HID_Worker_Thread Starting
+2021-04-23 19:30:58.073 ## Mapper.Shutdown()
+2021-04-23 19:30:58.074 -- USB Device : HID_Worker_Thread Exiting
+2021-04-23 19:30:58.456 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:30:58.492 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:30:58.493 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:30:58.495 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-04-23 19:30:58.498 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-04-23 19:30:58.497 -- USB Device : HID_Worker_Thread Starting
+2021-04-23 19:37:32.709 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:37:32.709 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:37:32.714 -- Device Removal [AC:7A:4D:14:D3:A9]
+2021-04-23 19:37:32.726 -- USB Device : HID_Worker_Thread Exiting
+2021-04-23 19:38:23.303 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:38:23.307 -- DS3 Arrival Event
+2021-04-23 19:38:23.306 -- DS3 Arrival Event
+2021-04-23 19:38:34.785 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:38:34.785 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:38:36.746 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:38:36.746 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:38:36.750 -- DS3 Arrival Event
+2021-04-23 19:38:36.752 -- DS3 Arrival Event
+2021-04-23 19:38:46.777 ## Mapper.Shutdown()
+2021-04-23 19:38:47.548 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:38:47.609 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:38:47.623 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:38:48.142 ## Mapper.Shutdown()
+2021-04-23 19:38:50.270 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 19:38:50.323 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 19:38:50.324 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 19:38:51.959 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:38:51.959 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:38:53.157 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 19:38:53.161 -- DS3 Arrival Event
+2021-04-23 19:38:53.161 -- DS3 Arrival Event
+2021-04-23 19:38:53.164 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2021-04-23 19:38:53.165 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-04-23 19:38:53.168 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-04-23 19:38:53.167 -- USB Device : HID_Worker_Thread Starting
+2021-04-23 20:52:23.294 ## Mapper.Shutdown()
+2021-04-23 20:52:23.395 -- USB Device : HID_Worker_Thread Exiting
+2021-04-23 20:52:23.923 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-23 20:52:25.267 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-23 20:52:25.301 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 20:52:25.304 -- Bus Plugin : Serial 2
+2021-04-23 20:52:25.310 ++ Plugin Port #2 for [00:00:00:00:00:00]
+2021-04-23 20:52:26.309 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 20:52:26.309 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-23 20:52:27.715 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 20:52:27.714 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 20:52:33.515 ## Mapper.Shutdown()
+2021-04-23 20:52:54.413 -- Bus Unplug : Serial 2
+2021-04-23 20:53:26.167 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 20:53:26.172 -- DS3 Arrival Event
+2021-04-23 20:53:28.037 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 20:53:28.925 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 20:53:28.927 -- DS3 Arrival Event
+2021-04-23 20:53:26.166 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 20:53:30.793 -- DS3 Arrival Event
+2021-04-23 20:53:30.796 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 20:53:30.798 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 20:53:30.799 -- DS3 Arrival Event
+2021-04-23 20:54:51.314 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 20:54:51.316 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 20:54:54.655 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 20:54:54.656 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 20:54:54.660 -- DS3 Arrival Event
+2021-04-23 20:54:54.664 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2021-04-23 20:54:54.665 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-04-23 20:54:54.669 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&11] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-04-23 20:54:54.669 -- USB Device : HID_Worker_Thread Starting
+2021-04-23 22:19:44.497 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&11#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-04-23 22:19:44.540 -- Device Removal [AC:7A:4D:14:D3:A9]
+2021-04-23 22:19:44.541 -- USB Device : HID_Worker_Thread Exiting
+2021-04-24 02:21:51.990 ## Mapper.Shutdown()
+2021-04-25 20:45:18.954 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-04-25 20:45:18.976 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-25 20:45:19.070 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-25 20:45:19.072 -- Bus Open   : Offset 0
+2021-04-25 20:45:19.075 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-04-25 20:45:19.115 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-25 20:45:20.114 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-25 20:45:23.780 ## Mapper.Shutdown()
+2021-04-25 20:45:45.767 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-25 20:45:45.828 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-25 20:45:45.859 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-25 20:45:46.596 ## Mapper.Shutdown()
+2021-04-26 00:10:06.106 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-04-26 00:10:06.111 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-26 00:10:06.232 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-26 00:10:06.233 -- Bus Open   : Offset 0
+2021-04-26 00:10:06.237 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-04-26 00:10:06.276 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-26 00:10:07.268 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-26 14:56:47.042 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-04-26 14:56:47.046 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-26 14:56:47.171 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-26 14:56:47.173 -- Bus Open   : Offset 0
+2021-04-26 14:56:47.179 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-04-26 14:56:47.214 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-26 14:56:48.217 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-26 15:00:36.323 ## Mapper.Shutdown()
+2021-04-26 23:50:45.071 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-04-26 23:50:45.076 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-26 23:50:45.717 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-26 23:50:45.718 -- Bus Open   : Offset 0
+2021-04-26 23:50:45.722 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-04-26 23:50:45.760 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-26 23:50:46.757 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-26 23:50:56.880 ## Mapper.Shutdown()
+2021-04-28 00:24:13.004 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpServer.exe  1.2.2.175
+2021-04-28 00:24:13.008 ++ C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpControl.dll 1.2.2.175
+2021-04-28 00:24:14.348 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-04-28 00:24:14.351 -- Bus Open   : Offset 0
+2021-04-28 00:24:14.357 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-04-28 00:24:14.414 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-28 00:24:15.405 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-04-28 00:27:54.243 ## Mapper.Shutdown()
+2021-06-18 05:24:06.866 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-06-18 05:24:06.878 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-06-18 05:24:06.968 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-06-18 05:24:06.969 -- Bus Open   : Offset 0
+2021-06-18 05:24:06.973 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-06-18 05:24:07.004 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-06-18 05:24:14.334 ## Mapper.Shutdown()
+2021-08-18 17:33:58.896 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-08-18 17:33:58.908 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-08-18 17:33:58.964 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-08-18 17:33:58.965 -- Bus Open   : Offset 0
+2021-08-18 17:33:58.969 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-08-18 17:33:58.991 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-08-18 17:34:05.393 ## Mapper.Shutdown()
+2021-08-18 17:34:05.918 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-08-18 17:34:05.960 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-08-18 17:34:05.985 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-08-18 17:34:07.024 ## Mapper.Shutdown()
+2021-08-18 17:34:07.463 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-08-18 17:34:07.508 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-08-18 17:34:07.509 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-08-18 17:34:08.457 ## Mapper.Shutdown()
+2021-09-06 00:24:05.367 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-09-06 00:24:05.405 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-09-06 00:24:05.778 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-09-06 00:24:05.787 -- Bus Open   : Offset 0
+2021-09-06 00:24:05.804 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-09-06 00:24:05.926 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-09-06 00:24:05.996 -- Bus Plugin : Serial 1
+2021-09-06 00:24:05.997 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-09-06 00:24:06.036 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-09-06 00:24:06.040 -- USB Device : HID_Worker_Thread Starting
+2021-09-06 00:24:06.055 -- Controller : UDP_Worker_Thread Starting
+2021-09-06 00:33:22.166 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-09-06 00:33:22.167 -- Device Removal [AC:7A:4D:14:D3:A9]
+2021-09-06 00:33:22.169 -- USB Device : HID_Worker_Thread Exiting
+2021-09-06 00:33:23.040 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-09-06 00:33:23.043 -- DS3 Arrival Event
+2021-09-06 00:33:23.047 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2021-09-06 00:33:23.047 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-09-06 00:33:23.050 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-09-06 00:33:23.049 -- USB Device : HID_Worker_Thread Starting
+2021-09-06 04:29:50.487 ## Mapper.Shutdown()
+2021-09-06 04:29:52.037 -- Bus Unplug : Serial 1
+2021-09-06 04:29:50.727 -- Controller : UDP_Worker_Thread Exiting
+2021-09-06 04:29:52.227 -- USB Device : HID_Worker_Thread Exiting
+2021-09-08 00:00:02.161 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-09-08 00:00:02.231 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-09-08 00:00:02.333 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-09-08 00:00:02.334 -- Bus Open   : Offset 0
+2021-09-08 00:00:02.339 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-09-08 00:00:02.361 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-09-08 00:00:02.373 -- Bus Plugin : Serial 1
+2021-09-08 00:00:02.373 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-09-08 00:00:02.389 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-09-08 00:00:02.383 -- USB Device : HID_Worker_Thread Starting
+2021-09-08 00:00:02.397 -- Controller : UDP_Worker_Thread Starting
+2021-09-08 00:46:50.863 ## Mapper.Shutdown()
+2021-09-08 00:46:51.224 -- Bus Unplug : Serial 1
+2021-09-08 00:46:50.916 -- Controller : UDP_Worker_Thread Exiting
+2021-09-08 00:46:51.227 -- USB Device : HID_Worker_Thread Exiting
+2021-09-15 00:45:54.640 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-09-15 00:45:54.647 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-09-15 00:45:54.742 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-09-15 00:45:54.743 -- Bus Open   : Offset 0
+2021-09-15 00:45:54.748 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-09-15 00:45:54.777 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-09-15 00:45:54.790 -- Bus Plugin : Serial 1
+2021-09-15 00:45:54.792 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-09-15 00:45:54.810 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-09-15 00:45:54.806 -- USB Device : HID_Worker_Thread Starting
+2021-09-15 00:45:54.818 -- Controller : UDP_Worker_Thread Starting
+2021-09-15 16:15:19.147 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-09-15 16:15:19.152 -- Device Removal [AC:7A:4D:14:D3:A9]
+2021-09-15 16:15:19.155 -- USB Device : HID_Worker_Thread Exiting
+2021-09-15 16:15:19.482 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-09-15 16:15:19.487 -- DS3 Arrival Event
+2021-09-15 16:15:19.490 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2021-09-15 16:15:19.491 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-09-15 16:15:19.494 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-09-15 16:15:19.493 -- USB Device : HID_Worker_Thread Starting
+2021-09-17 22:08:52.281 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-09-17 22:08:52.285 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-09-17 22:08:52.492 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-09-17 22:08:52.494 -- Bus Open   : Offset 0
+2021-09-17 22:08:52.501 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-09-17 22:08:52.534 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-09-17 22:08:52.553 -- Bus Plugin : Serial 1
+2021-09-17 22:08:52.554 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-09-17 22:08:52.570 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-09-17 22:08:52.569 -- USB Device : HID_Worker_Thread Starting
+2021-09-17 22:08:52.583 -- Controller : UDP_Worker_Thread Starting
+2021-09-17 23:08:08.244 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-09-17 23:08:08.273 -- Device Removal [AC:7A:4D:14:D3:A9]
+2021-09-17 23:08:08.276 -- USB Device : HID_Worker_Thread Exiting
+2021-09-18 02:31:25.587 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-09-18 02:31:25.629 -- DS3 Arrival Event
+2021-09-18 02:31:25.649 -- Device Arrival [AC:7A:4D:14:D3:A9]
+2021-09-18 02:31:25.651 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-09-18 02:31:25.667 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-09-18 02:31:25.666 -- USB Device : HID_Worker_Thread Starting
+2021-09-18 02:36:46.686 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-09-18 02:36:46.691 -- Device Removal [AC:7A:4D:14:D3:A9]
+2021-09-18 02:36:46.695 -- USB Device : HID_Worker_Thread Exiting
+2021-09-21 18:52:50.934 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-09-21 18:52:50.938 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-09-21 18:52:51.047 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-09-21 18:52:51.048 -- Bus Open   : Offset 0
+2021-09-21 18:52:51.053 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-09-21 18:52:51.086 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-09-21 18:52:51.099 -- Bus Plugin : Serial 1
+2021-09-21 18:52:51.099 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-09-21 18:52:51.112 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-09-21 18:52:51.109 -- USB Device : HID_Worker_Thread Starting
+2021-09-21 18:52:51.119 -- Controller : UDP_Worker_Thread Starting
+2021-09-21 18:52:52.073 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-09-21 18:55:11.636 ## Mapper.Shutdown()
+2021-09-21 18:55:11.652 -- Bus Unplug : Serial 1
+2021-09-21 18:55:13.930 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-09-21 18:55:13.936 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-09-21 18:55:14.048 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-09-21 18:55:14.050 -- Bus Open   : Offset 0
+2021-09-21 18:55:14.055 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-09-21 18:55:14.078 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-09-21 18:55:14.091 -- Bus Plugin : Serial 1
+2021-09-21 18:55:14.091 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-09-21 18:55:14.102 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-09-21 18:55:14.103 -- USB Device : HID_Worker_Thread Starting
+2021-09-21 18:55:14.114 -- Controller : UDP_Worker_Thread Starting
+2021-09-22 00:11:28.021 ## Mapper.Shutdown()
+2021-09-22 00:11:28.391 -- Bus Unplug : Serial 1
+2021-09-22 00:11:28.179 -- Controller : UDP_Worker_Thread Exiting
+2021-09-22 00:11:28.392 -- USB Device : HID_Worker_Thread Exiting
+2021-09-23 00:27:07.991 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-09-23 00:27:07.996 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-09-23 00:27:08.132 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-09-23 00:27:08.133 -- Bus Open   : Offset 0
+2021-09-23 00:27:08.139 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-09-23 00:27:08.180 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-09-23 00:27:09.177 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-09-23 00:27:27.139 ++ Notify [Removal] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-09-23 00:27:28.381 ++ Notify [Arrival] [{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}] [\\?\USB#VID_054C&PID_0268#5&C1BD4D0&0&5#{E2824A09-DBAA-4407-85CA-C8E8FF5F6FFA}]
+2021-09-23 00:27:28.383 -- DS3 Arrival Event
+2021-09-23 00:27:31.993 ## Mapper.Shutdown()
+2021-09-23 00:27:35.546 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-09-23 00:27:35.593 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-09-23 00:27:35.595 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-09-23 01:46:54.358 ## Mapper.Shutdown()
+2021-09-29 21:34:59.414 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-09-29 21:34:59.419 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-09-29 21:34:59.581 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-09-29 21:34:59.583 -- Bus Open   : Offset 0
+2021-09-29 21:34:59.590 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-09-29 21:34:59.634 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-09-29 21:34:59.663 -- Controller : UDP_Worker_Thread Starting
+2021-09-29 21:35:00.630 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-09-30 01:29:38.164 ## Mapper.Shutdown()
+2021-09-30 01:29:39.520 -- Controller : UDP_Worker_Thread Exiting
+2021-10-05 00:08:39.151 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-10-05 00:08:39.155 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-10-05 00:08:39.308 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-10-05 00:08:39.310 -- Bus Open   : Offset 0
+2021-10-05 00:08:39.315 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-10-05 00:08:39.338 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-10-05 00:08:39.349 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-10-05 00:08:39.356 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-10-05 00:08:39.353 -- USB Device : HID_Worker_Thread Starting
+2021-10-05 00:08:39.363 -- Controller : UDP_Worker_Thread Starting
+2021-10-05 00:08:40.331 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-10-05 00:52:50.648 ## Mapper.Shutdown()
+2021-10-05 00:52:50.710 -- Controller : UDP_Worker_Thread Exiting
+2021-10-05 00:52:50.809 -- USB Device : HID_Worker_Thread Exiting
+2021-10-05 19:45:49.736 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-10-05 19:45:49.740 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-10-05 19:45:51.305 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-10-05 19:45:51.307 -- Bus Open   : Offset 0
+2021-10-05 19:45:51.315 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-10-05 19:45:51.352 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-10-05 19:45:51.370 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-10-05 19:45:51.383 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-10-05 19:45:51.382 -- USB Device : HID_Worker_Thread Starting
+2021-10-05 19:45:51.394 -- Controller : UDP_Worker_Thread Starting
+2021-10-05 19:45:52.392 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-10-05 23:34:27.842 ## Mapper.Shutdown()
+2021-10-13 17:57:12.714 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-10-13 17:57:12.726 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-10-13 17:57:12.868 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-10-13 17:57:12.869 -- Bus Open   : Offset 0
+2021-10-13 17:57:12.874 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-10-13 17:57:12.920 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-10-13 17:57:12.932 -- Bus Plugin : Serial 1
+2021-10-13 17:57:12.932 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-10-13 17:57:12.946 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-10-13 17:57:12.940 -- USB Device : HID_Worker_Thread Starting
+2021-10-13 17:57:12.956 -- Controller : UDP_Worker_Thread Starting
+2021-10-13 17:57:13.921 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-10-13 17:57:14.423 ## Mapper.Shutdown()
+2021-10-13 17:57:14.526 -- Bus Unplug : Serial 1
+2021-10-13 17:57:14.454 -- Controller : UDP_Worker_Thread Exiting
+2021-10-13 17:57:14.527 -- USB Device : HID_Worker_Thread Exiting
+2021-10-13 22:06:53.905 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-10-13 22:06:53.922 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-10-13 22:06:54.503 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-10-13 22:06:54.505 -- Bus Open   : Offset 0
+2021-10-13 22:06:54.513 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-10-13 22:06:54.541 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-10-13 22:06:54.565 -- Bus Plugin : Serial 1
+2021-10-13 22:06:54.566 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-10-13 22:06:54.574 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-10-13 22:06:54.572 -- USB Device : HID_Worker_Thread Starting
+2021-10-13 22:06:54.582 -- Controller : UDP_Worker_Thread Starting
+2021-10-13 22:06:55.532 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-10-13 22:06:57.320 ## Mapper.Shutdown()
+2021-10-13 22:06:58.048 -- Bus Unplug : Serial 1
+2021-10-13 22:06:57.347 -- Controller : UDP_Worker_Thread Exiting
+2021-10-13 22:06:58.049 -- USB Device : HID_Worker_Thread Exiting
+2021-10-14 22:25:59.378 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-10-14 22:25:59.397 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-10-14 22:25:59.595 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-10-14 22:25:59.597 -- Bus Open   : Offset 0
+2021-10-14 22:25:59.603 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-10-14 22:25:59.641 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-10-14 22:25:59.653 -- Bus Plugin : Serial 1
+2021-10-14 22:25:59.653 ++ Plugin Port #1 for [AC:7A:4D:14:D3:A9]
+2021-10-14 22:25:59.664 -- Started Device Instance [USB\VID_054C&PID_0268\5&C1BD4D0&0&5] Local [AC:7A:4D:14:D3:A9] Remote [2C:33:7A:BB:0C:31]
+2021-10-14 22:25:59.664 -- USB Device : HID_Worker_Thread Starting
+2021-10-14 22:25:59.672 -- Controller : UDP_Worker_Thread Starting
+2021-10-14 22:26:00.639 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-10-14 22:26:00.866 ## Mapper.Shutdown()
+2021-10-14 22:26:00.892 -- Bus Unplug : Serial 1
+2021-10-14 22:26:00.867 -- Controller : UDP_Worker_Thread Exiting
+2021-10-14 22:26:00.893 -- USB Device : HID_Worker_Thread Exiting
+2021-10-20 13:34:43.768 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-10-20 13:34:43.797 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-10-20 13:34:44.220 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-10-20 13:34:44.224 -- Bus Open   : Offset 0
+2021-10-20 13:34:44.232 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-10-20 13:34:44.396 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-10-20 13:34:44.482 -- Controller : UDP_Worker_Thread Starting
+2021-10-20 13:34:45.372 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-10-20 20:21:46.096 ## Mapper.Shutdown()
+2021-10-29 03:07:28.144 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-10-29 03:07:28.164 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-10-29 03:07:28.562 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-10-29 03:07:28.567 -- Bus Open   : Offset 0
+2021-10-29 03:07:28.595 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-10-29 03:07:28.761 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-10-29 03:07:28.810 -- Controller : UDP_Worker_Thread Starting
+2021-10-29 03:07:29.752 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-10-29 04:10:09.985 ## Mapper.Shutdown()
+2021-11-11 18:39:34.968 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-11-11 18:39:34.995 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-11-11 18:39:35.308 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-11-11 18:39:35.311 -- Bus Open   : Offset 0
+2021-11-11 18:39:35.318 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-11-11 18:39:35.452 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-11-11 18:39:35.512 -- Controller : UDP_Worker_Thread Starting
+2021-11-11 18:39:36.429 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-11-11 18:39:39.674 ## Mapper.Shutdown()
+2021-11-11 18:39:39.692 -- Controller : UDP_Worker_Thread Exiting
+2021-11-28 15:49:16.576 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-11-28 15:49:16.588 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-11-28 15:49:16.682 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-11-28 15:49:16.684 -- Bus Open   : Offset 0
+2021-11-28 15:49:16.687 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-11-28 15:49:16.720 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-11-28 15:49:17.711 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-11-29 00:18:55.339 ## Mapper.Shutdown()
+2021-11-30 19:23:41.604 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-11-30 19:23:41.824 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-11-30 19:23:42.319 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-11-30 19:23:42.320 -- Bus Open   : Offset 0
+2021-11-30 19:23:42.325 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-11-30 19:23:42.412 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-11-30 19:23:43.407 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-11-30 19:23:46.581 ## Mapper.Shutdown()
+2021-12-07 17:08:51.846 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-12-07 17:08:51.851 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-12-07 17:08:52.008 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-12-07 17:08:52.009 -- Bus Open   : Offset 0
+2021-12-07 17:08:52.013 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-12-07 17:08:52.047 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-12-07 17:08:53.041 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-12-07 17:08:53.594 ## Mapper.Shutdown()
+2021-12-11 20:41:01.769 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2021-12-11 20:41:01.775 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2021-12-11 20:41:01.926 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2021-12-11 20:41:01.928 -- Bus Open   : Offset 0
+2021-12-11 20:41:01.931 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2021-12-11 20:41:02.000 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-12-11 20:41:02.994 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2021-12-11 21:38:53.954 ## Mapper.Shutdown()
+2022-01-29 21:56:21.120 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2022-01-29 21:56:21.135 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2022-01-29 21:56:21.516 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2022-01-29 21:56:21.519 -- Bus Open   : Offset 0
+2022-01-29 21:56:21.527 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2022-01-29 21:56:21.579 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2022-01-29 21:56:21.600 -- Controller : UDP_Worker_Thread Starting
+2022-01-29 21:56:22.566 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2022-01-29 21:56:23.233 ## Mapper.Shutdown()
+2022-01-29 21:56:23.292 -- Controller : UDP_Worker_Thread Exiting
+2022-03-07 23:43:18.889 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2022-03-07 23:43:19.355 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2022-03-07 23:43:20.260 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2022-03-07 23:43:20.266 -- Bus Open   : Offset 0
+2022-03-07 23:43:20.291 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2022-03-07 23:43:20.465 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2022-03-07 23:43:20.555 -- Controller : UDP_Worker_Thread Starting
+2022-03-07 23:43:21.485 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2022-03-07 23:43:23.240 ## Mapper.Shutdown()
+2022-03-07 23:43:23.340 -- Controller : UDP_Worker_Thread Exiting
+2022-04-30 22:42:25.925 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2022-04-30 22:42:25.956 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2022-04-30 22:42:27.116 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2022-04-30 22:42:27.124 -- Bus Open   : Offset 0
+2022-04-30 22:42:27.132 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2022-04-30 22:42:27.537 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2022-04-30 22:42:28.535 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2022-05-01 00:34:32.742 ## Mapper.Shutdown()
+2022-07-22 18:55:55.346 ++ F:\programms\Scp Server\ScpServer.exe  1.2.2.175
+2022-07-22 18:55:55.474 ++ F:\programms\Scp Server\ScpControl.dll 1.2.2.175
+2022-07-22 18:55:55.841 ++ Windows 10 Pro (6.2.9200.0 AMD64)
+2022-07-22 18:55:55.846 -- Bus Open   : Offset 0
+2022-07-22 18:55:55.851 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2022-07-22 18:55:56.047 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2022-07-22 18:55:56.134 -- Controller : UDP_Worker_Thread Starting
+2022-07-22 18:55:57.012 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2022-07-22 19:39:30.344 ## Mapper.Shutdown()
+2022-07-22 19:39:30.376 -- Controller : UDP_Worker_Thread Exiting

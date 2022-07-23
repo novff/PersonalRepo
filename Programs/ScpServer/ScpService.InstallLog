@@ -1,0 +1,50 @@
+﻿Выполняется установка сборки 'C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpService.exe'.
+Затронуты следующие параметры:
+   assemblypath = C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpService.InstallLog
+Устанавливается служба Ds3Service...
+Создается исходный EventLog Ds3Service в журнале Application...
+Выполняется установка сборки 'C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpService.exe'.
+Затронуты следующие параметры:
+   assemblypath = C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpService.InstallLog
+Устанавливается служба Ds3Service...
+Создается исходный EventLog Ds3Service в журнале Application...
+Выполняется установка сборки 'C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpService.exe'.
+Затронуты следующие параметры:
+   assemblypath = C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpService.InstallLog
+Устанавливается служба Ds3Service...
+Создается исходный EventLog Ds3Service в журнале Application...
+Выполняется установка сборки 'C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpService.exe'.
+Затронуты следующие параметры:
+   assemblypath = C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpService.InstallLog
+Устанавливается служба Ds3Service...
+Создается исходный EventLog Ds3Service в журнале Application...
+Выполняется установка сборки 'C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpService.exe'.
+Затронуты следующие параметры:
+   assemblypath = C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpService.exe
+   logfile = C:\Users\Максим\Desktop\emus\addons\ScpServer\bin\ScpService.InstallLog
+Устанавливается служба Ds3Service...
+Создается исходный EventLog Ds3Service в журнале Application...
+Выполняется установка сборки 'G:\max backup\emus\addons\ScpServer\bin\ScpService.exe'.
+Затронуты следующие параметры:
+   assemblypath = G:\max backup\emus\addons\ScpServer\bin\ScpService.exe
+   logfile = G:\max backup\emus\addons\ScpServer\bin\ScpService.InstallLog
+Устанавливается служба Ds3Service...
+Служба Ds3Service успешно установлена.
+Создается исходный EventLog Ds3Service в журнале Application...
+См. файл журнала выполнения операция для сборки G:\max backup\emus\addons\ScpServer\bin\ScpService.exe.
+Данный файл находится в G:\max backup\emus\addons\ScpServer\bin\ScpService.InstallLog.
+Выполняется фиксация сборки 'G:\max backup\emus\addons\ScpServer\bin\ScpService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = G:\max backup\emus\addons\ScpServer\bin\ScpService.exe
+   logfile = G:\max backup\emus\addons\ScpServer\bin\ScpService.InstallLog
+Выполняется установка сборки 'F:\programms\Scp Server\ScpService.exe'.
+Затронуты следующие параметры:
+   assemblypath = F:\programms\Scp Server\ScpService.exe
+   logfile = F:\programms\Scp Server\ScpService.InstallLog
+Устанавливается служба Ds3Service...
+Создается исходный EventLog Ds3Service в журнале Application...

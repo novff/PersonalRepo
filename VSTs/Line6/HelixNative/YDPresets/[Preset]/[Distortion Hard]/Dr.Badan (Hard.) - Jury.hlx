@@ -1,0 +1,282 @@
+{
+ "data" : {
+  "device" : 2162689,
+  "device_version" : 33620000,
+  "meta" : {
+   "application" : "Helix",
+   "appversion" : 33554688,
+   "build_sha" : "3d3461b",
+   "modifieddate" : 1470506339,
+   "name" : "RectoBall"
+  },
+  "tone" : {
+   "dsp0" : {
+    "block0" : {
+     "@bypassvolume" : 1.0,
+     "@enabled" : true,
+     "@model" : "HD2_AmpANGLMeteor",
+     "@path" : 0,
+     "@position" : 4,
+     "@type" : 1,
+     "Bass" : 0.202403,
+     "Bias" : 0.344732,
+     "BiasX" : 0.647874,
+     "ChVol" : 0.878827,
+     "Drive" : 0.50,
+     "Hum" : 0.50,
+     "Master" : 0.549908,
+     "Mid" : 0.398336,
+     "MidBoost" : false,
+     "Presence" : 0.546211,
+     "Ripple" : 0.50,
+     "Sag" : 0.178899,
+     "Treble" : 0.651571
+    },
+    "block1" : {
+     "@enabled" : true,
+     "@model" : "HD2_ImpulseResponse1024",
+     "@path" : 0,
+     "@position" : 5,
+     "@type" : 5,
+     "HighCut" : 7449.73,
+     "Index" : 91,
+     "Level" : -18.0,
+     "LowCut" : 77.7692,
+     "Mix" : 1.0
+    },
+    "block2" : {
+     "@bypassvolume" : 1.0,
+     "@enabled" : true,
+     "@model" : "HD2_AmpCaliRectifire",
+     "@path" : 1,
+     "@position" : 4,
+     "@type" : 1,
+     "Bass" : 0.201287,
+     "Bias" : 0.745841,
+     "BiasX" : 0.300370,
+     "ChVol" : 0.659439,
+     "Drive" : 0.550551,
+     "Hum" : 0.247243,
+     "Master" : 0.449449,
+     "Mid" : 0.348429,
+     "Presence" : 0.487061,
+     "Ripple" : 0.245404,
+     "Sag" : 0.204587,
+     "Treble" : 0.546875
+    },
+    "block3" : {
+     "@enabled" : true,
+     "@model" : "HD2_ImpulseResponse1024",
+     "@path" : 1,
+     "@position" : 5,
+     "@type" : 5,
+     "HighCut" : 7449.73,
+     "Index" : 95,
+     "Level" : -18.0,
+     "LowCut" : 77.7692,
+     "Mix" : 1.0
+    },
+    "block4" : {
+     "@enabled" : true,
+     "@model" : "HD2_DelaySimpleDelay",
+     "@path" : 1,
+     "@position" : 6,
+     "@stereo" : false,
+     "@trails" : false,
+     "@type" : 7,
+     "Feedback" : 0.0,
+     "Level" : 0.0,
+     "Mix" : 1.0,
+     "Scale" : 0.750,
+     "SyncSelect1" : 6,
+     "TempoSync1" : false,
+     "Time" : 0.00699997
+    },
+    "block5" : {
+     "@enabled" : true,
+     "@model" : "HD2_DistScream808",
+     "@path" : 0,
+     "@position" : 2,
+     "@stereo" : false,
+     "@type" : 0,
+     "Gain" : 0.156250,
+     "Level" : 0.718750,
+     "Tone" : 0.650
+    },
+    "inputA" : {
+     "@input" : 1,
+     "@model" : "HD2_AppDSPFlow1Input",
+     "decay" : 0.0904375,
+     "noiseGate" : true,
+     "threshold" : -63.8571
+    },
+    "inputB" : {
+     "@input" : 0,
+     "@model" : "HD2_AppDSPFlow2Input",
+     "decay" : 0.50,
+     "noiseGate" : false,
+     "threshold" : -48.0
+    },
+    "join" : {
+     "@enabled" : true,
+     "@model" : "HD2_AppDSPFlowJoin",
+     "@position" : 7,
+     "A Level" : -0.0214286,
+     "A Pan" : 0.0,
+     "B Level" : -0.0214286,
+     "B Pan" : 1.0,
+     "B Polarity" : false,
+     "Level" : 0.0
+    },
+    "outputA" : {
+     "@model" : "HD2_AppDSPFlowOutput",
+     "@output" : 1,
+     "gain" : 0.0,
+     "pan" : 0.50
+    },
+    "outputB" : {
+     "@model" : "HD2_AppDSPFlowOutput",
+     "@output" : 0,
+     "gain" : 0.0,
+     "pan" : 0.50
+    },
+    "split" : {
+     "@enabled" : true,
+     "@model" : "HD2_AppDSPFlowSplitY",
+     "@position" : 4
+    }
+   },
+   "dsp1" : {
+    "inputA" : {
+     "@input" : 0,
+     "@model" : "HD2_AppDSPFlow1Input",
+     "decay" : 0.50,
+     "noiseGate" : false,
+     "threshold" : -48.0
+    },
+    "inputB" : {
+     "@input" : 0,
+     "@model" : "HD2_AppDSPFlow2Input",
+     "decay" : 0.50,
+     "noiseGate" : false,
+     "threshold" : -48.0
+    },
+    "join" : {
+     "@enabled" : false,
+     "@model" : "HD2_AppDSPFlowJoin",
+     "@position" : 8,
+     "A Level" : 0.0,
+     "A Pan" : 0.50,
+     "B Level" : 0.0,
+     "B Pan" : 0.50,
+     "B Polarity" : false,
+     "Level" : 0.0
+    },
+    "outputA" : {
+     "@model" : "HD2_AppDSPFlowOutput",
+     "@output" : 1,
+     "gain" : 0.0,
+     "pan" : 0.50
+    },
+    "outputB" : {
+     "@model" : "HD2_AppDSPFlowOutput",
+     "@output" : 1,
+     "gain" : 0.0,
+     "pan" : 0.50
+    },
+    "split" : {
+     "@enabled" : false,
+     "@model" : "HD2_AppDSPFlowSplitY",
+     "@position" : 0
+    }
+   },
+   "footswitch" : {
+    "dsp0" : {
+     "block4" : {
+      "@fs_enabled" : true,
+      "@fs_index" : 9,
+      "@fs_label" : "Simple Delay",
+      "@fs_ledcolor" : 458496,
+      "@fs_momentary" : false
+     },
+     "block5" : {
+      "@fs_enabled" : true,
+      "@fs_index" : 8,
+      "@fs_label" : "Scream 808",
+      "@fs_ledcolor" : 13676288,
+      "@fs_momentary" : false
+     }
+    }
+   },
+   "global" : {
+    "@current_snapshot" : 0,
+    "@cursor_dsp" : 0,
+    "@cursor_group" : "block0",
+    "@cursor_path" : 0,
+    "@cursor_position" : 4,
+    "@guitarinputZ" : 0,
+    "@model" : "@global_params",
+    "@pedalstate" : 2,
+    "@tempo" : 120.0,
+    "@topology0" : "SABJ",
+    "@topology1" : "A",
+    "@variax_customtuning" : true,
+    "@variax_lockctrls" : 0,
+    "@variax_magmode" : true,
+    "@variax_model" : 0,
+    "@variax_str1tuning" : 0,
+    "@variax_str2tuning" : 0,
+    "@variax_str3tuning" : 0,
+    "@variax_str4tuning" : 0,
+    "@variax_str5tuning" : 0,
+    "@variax_str6tuning" : 0,
+    "@variax_toneknob" : -0.10,
+    "@variax_volumeknob" : -0.10
+   },
+   "snapshot0" : {
+    "@name" : "SNAPSHOT 1",
+    "@tempo" : 120.0,
+    "blocks" : {
+     "dsp0" : {
+      "block0" : true,
+      "block1" : true,
+      "block2" : true,
+      "block3" : true,
+      "block4" : true,
+      "block5" : true
+     }
+    }
+   },
+   "snapshot1" : {
+    "@name" : "SNAPSHOT 2",
+    "@tempo" : 120.0
+   },
+   "snapshot2" : {
+    "@name" : "SNAPSHOT 3",
+    "@tempo" : 120.0
+   },
+   "snapshot3" : {
+    "@name" : "SNAPSHOT 4",
+    "@tempo" : 120.0
+   },
+   "snapshot4" : {
+    "@name" : "SNAPSHOT 5",
+    "@tempo" : 120.0
+   },
+   "snapshot5" : {
+    "@name" : "SNAPSHOT 6",
+    "@tempo" : 120.0
+   },
+   "snapshot6" : {
+    "@name" : "SNAPSHOT 7",
+    "@tempo" : 120.0
+   },
+   "snapshot7" : {
+    "@name" : "SNAPSHOT 8",
+    "@tempo" : 120.0
+   }
+  }
+ },
+ "schema" : "L6Preset",
+ "version" : 6
+}

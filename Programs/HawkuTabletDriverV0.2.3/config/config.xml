@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ConfigVersion>1</ConfigVersion>
+  <TabletArea>
+    <X>80</X>
+    <Y>45</Y>
+    <Width>160</Width>
+    <Height>90</Height>
+    <Rotation>0</Rotation>
+  </TabletArea>
+  <TabletFullArea>
+    <X>80</X>
+    <Y>50</Y>
+    <Width>160</Width>
+    <Height>100</Height>
+    <Rotation>0</Rotation>
+  </TabletFullArea>
+  <ForceAspectRatio>true</ForceAspectRatio>
+  <Rotation>0</Rotation>
+  <Invert>true</Invert>
+  <ForceFullArea>true</ForceFullArea>
+  <OutputMode>Digitizer</OutputMode>
+  <ScreenArea>
+    <X>0</X>
+    <Y>0</Y>
+    <Width>1920</Width>
+    <Height>1080</Height>
+    <Rotation>0</Rotation>
+  </ScreenArea>
+  <SmoothingEnabled>false</SmoothingEnabled>
+  <SmoothingLatency>0</SmoothingLatency>
+  <SmoothingInterval>4</SmoothingInterval>
+  <SmoothingOnlyWhenButtons>false</SmoothingOnlyWhenButtons>
+  <NoiseFilterEnabled>false</NoiseFilterEnabled>
+  <NoiseFilterBuffer>10</NoiseFilterBuffer>
+  <NoiseFilterThreshold>0.5</NoiseFilterThreshold>
+  <AntiSmoothingEnabled>false</AntiSmoothingEnabled>
+  <AntiSmoothingShape>0.5</AntiSmoothingShape>
+  <AntiSmoothingCompensation>20</AntiSmoothingCompensation>
+  <AntiSmoothingOnlyWhenHover>false</AntiSmoothingOnlyWhenHover>
+  <DesktopSize>
+    <X>0</X>
+    <Y>0</Y>
+    <Width>3360</Width>
+    <Height>1154</Height>
+    <Rotation>0</Rotation>
+  </DesktopSize>
+  <AutomaticDesktopSize>true</AutomaticDesktopSize>
+  <ButtonMap>
+    <Button>MOUSE1</Button>
+    <Button>MOUSE2</Button>
+    <Button>MOUSE3</Button>
+  </ButtonMap>
+  <DisableButtons>false</DisableButtons>
+  <TabletButtonMap>
+    <Button />
+    <Button />
+    <Button />
+    <Button />
+    <Button />
+    <Button />
+    <Button />
+    <Button />
+    <Button />
+    <Button />
+    <Button />
+    <Button />
+    <Button />
+    <Button />
+    <Button />
+    <Button />
+  </TabletButtonMap>
+  <DisableTabletButtons>false</DisableTabletButtons>
+  <PressureSensitivity>0</PressureSensitivity>
+  <PressureDeadzone>0</PressureDeadzone>
+  <ScrollSensitivity>0.5</ScrollSensitivity>
+  <ScrollAcceleration>1</ScrollAcceleration>
+  <ScrollStopCursor>false</ScrollStopCursor>
+  <CustomCommands />
+  <WindowWidth>700</WindowWidth>
+  <WindowHeight>710</WindowHeight>
+  <AutomaticRestart>true</AutomaticRestart>
+  <RunAtStartup>false</RunAtStartup>
+  <DriverPath>bin/TabletDriverService.exe</DriverPath>
+  <DriverArguments>config/init.cfg</DriverArguments>
+  <DebuggingEnabled>false</DebuggingEnabled>
+  <DeveloperMode>false</DeveloperMode>
+</Configuration>
