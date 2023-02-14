@@ -1,0 +1,6 @@
+
+Jax-Core for rainmeter
+iwr -useb "https://raw.githubusercontent.com/Jax-Core/JaxCore/master/CoreInstaller.ps1" | iex
+
+CTT utility:
+iwr -useb https://christitus.com/win | iex

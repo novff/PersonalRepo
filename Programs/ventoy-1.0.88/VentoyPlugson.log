@@ -1,0 +1,7 @@
+[2023/02/14 22:15:09] CreateFileA \\.\S: failed 53
+[2023/02/14 22:15:09] GetPhyDriveByLogicalDrive failed -1 0
+[2023/02/14 22:15:09] S: is NOT ventoy disk
+[2023/02/14 22:15:09] xzlen:1016984 rawdata size:3594240
+[2023/02/14 22:15:09] Plugson buildtime 20221204 15:15:33
+[2023/02/14 22:15:09] Total extract 129 files from tar file.
+[2023/02/14 22:15:37] ventoy disk exit ...
