@@ -1783,3 +1783,12 @@
 2022-07-22 18:55:57.012 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
 2022-07-22 19:39:30.344 ## Mapper.Shutdown()
 2022-07-22 19:39:30.376 -- Controller : UDP_Worker_Thread Exiting
+2023-08-22 15:43:31.111 ++ C:\Users\Maxim\Desktop\PersonalRepo\Programs\ScpServer\ScpServer.exe  1.2.2.175
+2023-08-22 15:43:31.119 ++ C:\Users\Maxim\Desktop\PersonalRepo\Programs\ScpServer\ScpControl.dll 1.2.2.175
+2023-08-22 15:43:31.232 ++ Windows 10 (6.2.9200.0 AMD64)
+2023-08-22 15:43:31.234 -- Bus Open   : Offset 0
+2023-08-22 15:43:31.240 -- Bus Open   : Path \\?\ROOT#SYSTEM#0001#{F679F562-3164-42CE-A4DB-E7DDBE723909}
+2023-08-22 15:43:31.271 ## Mapper.Initialize() - Profiles [5] Active [Default] Mappings [0]
+2023-08-22 15:43:31.290 -- Controller : UDP_Worker_Thread Starting
+2023-08-22 15:46:36.324 ## Mapper.Shutdown()
+2023-08-22 15:46:36.325 -- Controller : UDP_Worker_Thread Exiting
