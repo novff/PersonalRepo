@@ -1,0 +1,87 @@
+first of all get the iso from here: https://archlinux.org/download/  	and balena etcher from here: https://etcher.balena.io/
+get a thumb drive and flash it with an iso you got from the the first step. 
+plug it in to your host machine and get into the uefi via spamming either f1/f2/f9/f10/f12 or delete key on your keyboard.
+get to the boot section ad select your thumb drive, hit save(usually f10) and reboot.
+
+you will be greeted by the archiso live environment where you will do all the things you need to install this distribution of linux.
+first of all in this interface you should check your internet connection by pinging any web address(e.g. "ping 8.8.8.8")
+if you get the delay reading in ms you're all set otherwise you need to setup your wifi connection via the "iwctl" program.
+	by running iwctl you get in the interactive shell where to get list of your internet capable periphery you can do "device list"
+	after looking at the list and figuring out which is your wifi card(usually wlan0) you ca run "station wlan0 scan" and "station wlan0 get-networks" to see available networks.
+	to connect to the internet you can run "station wlan0 connect YOURWIFISSID" and if prompted input the network password.
+
+if you have multiple disks you can run "lsblk" to see your storage devices layout
+after that you should partition your chosen disk with "cfdisk" which has a nice and simple menu.
+in "cfdisk" you should remove all partitions there are but selecting them with up/down keys and picking delete option with left/right keys and pressing enter.
+after that you need to partition your disk into three partitions: 1)boot 2)swap 3)system root
+	create partition with size of 100M. this will be our boot partition and contain efi stuff and grub. 
+	create partition with size from 2G to 8G. this will be our swap partition. 
+	create partition the size of the rest of the disk. this will be where we mount our system root.
+	finally select write option to apply changes and continue.
+
+in our example the disk we partitioned will be called sda and have sda1, sda2 and sda3 partitions each according to the previous steps.
+it should be noted here that linux treats everything in the system as a file so your partitions are represented in the dev folder short for devices
+now after exiting the partitioning tool we have to format the partitions accordingly:
+	sda1 the boot partition should be formated fat:
+		"mkfs.fat -F 32 /dev/sda1"
+	sda2 the swap partition should be formated with a special tool:
+		"mkswap /dev/sda2"
+	sda3 the system root should be formated ext4 or btrfs but we'll go with ext4:
+		"mkfs.ext4 /dev/sda3"
+
+after formatting our partitions we should mount them accordingly.
+it should be noted that during instalation it is expected from us to work on the /mnt directory as our future system root folder.
+	to mount sda1 we must first create a folder in our future system for the efi files and after that we can mount our partition . 
+		"mkdir /mnt/boot/efi" and then "mount /dev/sda1 /mnt/boot/efi"
+	to mount sda2 we use built in command for swap partitons
+		"swapon /dev/sda2"
+	to mount our system root we do:
+		"mount /dev/sda3 /mnt"
+
+after that we can install our system to our disk via "pacstrap"
+i personally recommend installing only basic apps and things you need right after boot as you can install more things later.
+	"pacstrap /mnt base linux linux-firmware base-devel grub efibootmgr nano git wget curl networkmanager sof-firmware"
+after the installation process is done we can move our current file system table to the installed system by generating fstab and passing it's output via ">" to a file on a system:
+	"genfstab /mnt > /mnt/etc/fstab"
+
+after that the work on a real system begins. we change our current root via "arch-chroot" to the system on a disK
+	"arch-chroot /mnt"
+there we do quite a few things:
+	"nano /etc/hostname" here we can change the name of our machine on the network by writing is then saving it by the keycombo of ctrl+s and exiting via ctrl+x
+	"nano /etc/locale.gen" here we scroll down to the locale we want(e.g. "en_US.UTF-8") and uncomment it by removing the hashtag before it and saving the file with keycombo of ctrl+s and exiting with ctrl+x
+	"nano /etc/locale.conf" some apps look for locale here so we write LANG=en_US.UTF-8 , save and exit as previously
+	"locale-gen" to generate and use the locale we selected in the second step.
+
+	to use internet in the shell you need to enable networkmanager service by running:
+		"systemctl enable --now NetworkManager"
+		and then configuring it once again via "nmcli":
+			to see networks run "nmcli dev wifi list"
+			to connect to the network do "nmcli dev wifi connect YOURWIFISSID password 'YOURWIFIPASSWORD'"
+			use "ping 8.8.8.8" to check if connection works.
+	
+	root account needs a password so we can set it with the "passwd" command where we will be prompted to set and repeat the set password.
+	using root account on a daily basis isn't practical so we better make our own account but first let us do some quick trickery for the "sudo" command to work:
+		"EDITOR=nano visudo" where we scroll to the bottom and uncomment the "%wheel" group then save and exit as usual.
+		after that you can add your user via "useradd -m -G wheel -s /bin/bash YOURUSERNAME" and set your password with "passwd YOURUSERNAME"
+		you can test if it worked via changing user by running "su YOURUSERNAME" putting in your password and trying to run "sudo pacman -Syu".
+		to exit this user profile you simply use "exit" command.
+	
+	we need grub to load our system up every launch so let us install it:
+		"grub-install /dev/sda" and then "grub-mkconfig -o /boot/grub/grub.cfg"
+	
+after all of that we can use "exit" to get out of our system back to the flash drive command line where we can finally run "reboot" and remove the thumb drive to get to the freshly installed arch linux system.
+
+if you want to install anything you can run "sudo pacman -S PACKAGENAME"  to get anything from a zip archiver to the whole desktop environment for example:
+	"sudo pacman -Syu" to update the db of packages and "sudo pacman -S gdm gnome-desktop gnome-control-center gnome-terminal firefox gnome-tweaks nautilus gnome-system-monitor"
+	after the installation you can run "systemctl enable gdm" and "systemctl enable --now gdm" to turn this system in a full blown minimalistic desktop linux system.
+
+if you want to use applications from other platforms you should look into:
+	osx: sosumi - a prepackaged qemu-kvm machine
+	android: waydroid - a container based emulation 
+	windows: once again qemu-kvm or wine/bottles/crossover(paid) for applications and lutris/playonlinux/bottles/heroic/proton(basically steam flavour of wine). best option is bottles + occasional qemu vm.
+	
+	
+	
+
+	
+
