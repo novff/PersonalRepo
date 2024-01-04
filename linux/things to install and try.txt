@@ -30,3 +30,6 @@
 -zsh. make my own theme, figure out why pl10k-like themes do not work even with fonts installed
 -openvpn and pihole/ip scramblers dns hosting and focusing on privacy
 -make my tablet into a remote desktop monster
+-emulate stuff
+-try to make basic llvm emulation app for older consoles.
+-start using an actuall app for email instead of gmail fuckery
