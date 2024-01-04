@@ -1,0 +1,32 @@
+-bottles, sosumi and waydroid.
+-qemu-kvm with passthrough via looking glass and maybe multipass-vm 
+-chroot jails with bootstrapped installs
+-separate user home partition for distrohopping and arch breakage
+	-make restore partition from pop os in arch
+-figure out git fuckery since github and git-cli do not mix well might aswell try gitlab
+-try to move away from
+-vencord and trying to make it stream audio
+-ssh and making my notebook into a web-server/minecraft server
+	-figuring out port forwarding
+	-figuring out static ip workarounds and firewalls.
+	-finding alternatives for radmin(zerotier sucks cuz no gui) https://discuss.zerotier.com/t/guide-zerotier-gui-on-linux-mint-ubuntu/9447
+-gaming with heroic(pain in ass) and steam
+-TRY LINUX FROM SCRATCH AND/OR GENTOO
+-try to move away from gnome due to drm-lending problems
+	-try tiling wms 
+	-look into cosmic
+	-try building up desktop from scratch(ewwidgets?,xmonad? allatjazz)
+-learn bash scripting and try to make arch somewhat immutable?
+-try making my own distro(packing boot and building kernel, trying to make my own pm)
+-apostrophe and markdown adoption
+-flameshot kdenlive obs all that media creation stuff.
+-figure out ffmpeg
+-samsung dex???
+-minecraft on wayland
+-eww widgets
+-msft font rendering stuff cause i hate them
+-xwayland
+-docker stuff and looking into wsl
+-zsh. make my own theme, figure out why pl10k-like themes do not work even with fonts installed
+-openvpn and pihole/ip scramblers dns hosting and focusing on privacy
+-make my tablet into a remote desktop monster
