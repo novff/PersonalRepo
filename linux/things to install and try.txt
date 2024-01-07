@@ -33,3 +33,4 @@
 -emulate stuff
 -try to make basic llvm emulation app for older consoles.
 -start using an actuall app for email instead of gmail fuckery
+-do the dotfiles
