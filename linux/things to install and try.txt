@@ -4,8 +4,6 @@
 -separate user home partition for distrohopping and arch breakage
 	-make restore partition from pop os in arch
 -figure out git fuckery since github and git-cli do not mix well might aswell try gitlab
--try to move away from
--vencord and trying to make it stream audio
 -ssh and making my notebook into a web-server/minecraft server
 	-figuring out port forwarding
 	-figuring out static ip workarounds and firewalls.
@@ -33,4 +31,6 @@
 -emulate stuff
 -try to make basic llvm emulation app for older consoles.
 -start using an actuall app for email instead of gmail fuckery
--do the dotfiles
+-do the dotfiles 
+-ansible for automation of dotfiles https://www.youtube.com/watch?v=hPPIScBt4Gw 
+-use vesktop instead of discord https://github.com/Vencord/Vesktop
