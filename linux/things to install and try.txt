@@ -34,3 +34,4 @@
 -do the dotfiles 
 -ansible for automation of dotfiles https://www.youtube.com/watch?v=hPPIScBt4Gw 
 -use vesktop instead of discord https://github.com/Vencord/Vesktop
+-live wallpaper https://github.com/jeffshee/hidamari

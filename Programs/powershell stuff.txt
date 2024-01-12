@@ -4,3 +4,6 @@ iwr -useb "https://raw.githubusercontent.com/Jax-Core/JaxCore/master/CoreInstall
 
 CTT utility:
 iwr -useb https://christitus.com/win | iex
+
+remove any metro app:
+Get-AppxPackage *APPNAME* | Remove-AppxPackage
