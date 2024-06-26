@@ -14,7 +14,7 @@ if you have multiple disks you can run "lsblk" to see your storage devices layou
 after that you should partition your chosen disk with "cfdisk" which has a nice and simple menu.
 in "cfdisk" you should remove all partitions there are but selecting them with up/down keys and picking delete option with left/right keys and pressing enter.
 after that you need to partition your disk into three partitions: 1)boot 2)swap 3)system root
-	create partition with size of 100M. this will be our boot partition and contain efi stuff and grub. 
+	create partition with size of 100M to 1G. this will be our boot partition and contain efi stuff and grub. 
 	create partition with size from 2G to 8G. this will be our swap partition. 
 	create partition the size of the rest of the disk. this will be where we mount our system root.
 	finally select write option to apply changes and continue.
@@ -31,12 +31,13 @@ now after exiting the partitioning tool we have to format the partitions accordi
 
 after formatting our partitions we should mount them accordingly.
 it should be noted that during instalation it is expected from us to work on the /mnt directory as our future system root folder.
-	to mount sda1 we must first create a folder in our future system for the efi files and after that we can mount our partition . 
-		"mkdir /mnt/boot/efi" and then "mount /dev/sda1 /mnt/boot/efi"
-	to mount sda2 we use built in command for swap partitons
-		"swapon /dev/sda2"
 	to mount our system root we do:
 		"mount /dev/sda3 /mnt"
+	to mount sda1 we must first create a folder in our future system for the efi files and after that we can mount our partition. 
+		"mkdir /mnt/boot && mkdir /mnt/boot/efi" and then "mount /dev/sda1 /mnt/boot/efi"
+	to mount sda2 we use built in command for swap partitons
+		"swapon /dev/sda2"
+	
 
 after that we can install our system to our disk via "pacstrap"
 i personally recommend installing only basic apps and things you need right after boot as you can install more things later.
@@ -51,13 +52,6 @@ there we do quite a few things:
 	"nano /etc/locale.gen" here we scroll down to the locale we want(e.g. "en_US.UTF-8") and uncomment it by removing the hashtag before it and saving the file with keycombo of ctrl+s and exiting with ctrl+x
 	"nano /etc/locale.conf" some apps look for locale here so we write LANG=en_US.UTF-8 , save and exit as previously
 	"locale-gen" to generate and use the locale we selected in the second step.
-
-	to use internet in the shell you need to enable networkmanager service by running:
-		"systemctl enable --now NetworkManager"
-		and then configuring it once again via "nmcli":
-			to see networks run "nmcli dev wifi list"
-			to connect to the network do "nmcli dev wifi connect YOURWIFISSID password 'YOURWIFIPASSWORD'"
-			use "ping 8.8.8.8" to check if connection works.
 	
 	root account needs a password so we can set it with the "passwd" command where we will be prompted to set and repeat the set password.
 	using root account on a daily basis isn't practical so we better make our own account but first let us do some quick trickery for the "sudo" command to work:
@@ -68,20 +62,26 @@ there we do quite a few things:
 	
 	we need grub to load our system up every launch so let us install it:
 		"grub-install /dev/sda" and then "grub-mkconfig -o /boot/grub/grub.cfg"
-	
-after all of that we can use "exit" to get out of our system back to the flash drive command line where we can finally run "reboot" and remove the thumb drive to get to the freshly installed arch linux system.
+After that we exit the chroot environment by typing "exit" and reboot by typing "reboot".
+Finally after reboot we're in fully installed arch linux where we need to connect to the internet once again. 
+	to use internet in the shell you need to enable networkmanager service by running:
+		"systemctl enable --now NetworkManager"
+		and then configuring it once again via "nmcli":
+			to see networks run "nmcli dev wifi list"
+			to connect to the network do "nmcli dev wifi connect YOURWIFISSID password 'YOURWIFIPASSWORD'"
+			use "ping 8.8.8.8" to check if connection works.
 
-if you want to install anything you can run "sudo pacman -S PACKAGENAME"  to get anything from a zip archiver to the whole desktop environment for example:
-	"sudo pacman -Syu" to update the db of packages and "sudo pacman -S gdm gnome-desktop gnome-control-center gnome-terminal firefox gnome-tweaks nautilus gnome-system-monitor"
-	after the installation you can run "systemctl enable gdm" and "systemctl enable --now gdm" to turn this system in a full blown minimalistic desktop linux system.
+	if you want to install anything you can run "sudo pacman -S PACKAGENAME"  to get anything from a zip archiver to the whole desktop environment for example:
+		"sudo pacman -Syu" to update the db of packages and "sudo pacman -S gdm gnome-desktop gnome-control-center gnome-terminal firefox gnome-tweaks nautilus gnome-system-monitor"
+		after the installation you can run "systemctl enable gdm" and "systemctl enable --now gdm" to turn this system in a full blown minimalistic desktop linux system.
 
-if you want to use applications from other platforms you should look into:
-	osx: sosumi - a prepackaged qemu-kvm machine
-	android: waydroid - a container based emulation 
-	windows: once again qemu-kvm or wine/bottles/crossover(paid) for applications and lutris/playonlinux/bottles/heroic/proton(basically steam flavour of wine). best option is bottles + occasional qemu vm.
-	
-	
-	
+	if you want to use applications from other platforms you should look into:
+		osx: sosumi - a prepackaged qemu-kvm machine
+		android: waydroid - a container based emulation 
+		windows: once again qemu-kvm or wine/bottles/crossover(paid) for applications and lutris/playonlinux/bottles/heroic/proton(basically steam flavour of wine). best option is bottles + occasional qemu vm.
+		
+		
+		
 
 	
 
